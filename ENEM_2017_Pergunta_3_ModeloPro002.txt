@@ -1,0 +1,849 @@
+ENEM 2017 Pergunta 4 Modelo Pro002 
+
+Provas_do_ENEM\ENEM\2017\1.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 136, 137, 138, 139  detalhadamente.
+ 
+**QUESTÃO 136**
+
+O gráfico mostra a velocidade de um veículo ao longo do tempo. O veículo está parado quando a velocidade é zero. Observando o gráfico, vemos que a velocidade é zero entre os minutos 6 e 8, e entre os minutos 8 e 10.  Portanto, o veículo ficou parado por 8 - 6 = 2 minutos e 10 - 8 = 2 minutos, totalizando 2 + 2 = 4 minutos.
+
+**Resposta:** A (4)
+
+
+
+**QUESTÃO 137**
+
+Quatro taças circulares com raio da base 4 cm e raio da borda superior 5 cm precisam ser dispostas em uma bandeja retangular em uma única fileira. O comprimento mínimo da bandeja é determinado pelo diâmetro das bases das quatro taças, ou seja, 4 taças * 2 * raio = 4 * 2 * 4 cm = 32 cm. A largura mínima é determinada pelo diâmetro da borda superior, que é 2 * 5 cm = 10 cm.  A área mínima da bandeja é então 32 cm * 10 cm = 320 cm².
+
+**Resposta:** D (320)
+
+
+
+**QUESTÃO 138**
+
+O suco é feito com 2/3 de polpa de morango e 1/3 de polpa de acerola.
+Preço atual da polpa de morango: R$ 18,00
+Preço atual da polpa de acerola: R$ 14,70
+Novo preço da polpa de acerola: R$ 15,30
+Aumento no preço da acerola: R$ 15,30 - R$ 14,70 = R$ 0,60.  
+Como o suco usa 1/3 de acerola, o aumento no custo da acerola no suco seria (1/3) * R$ 0,60 = R$ 0,20.
+Para manter o preço do suco, a redução no preço da polpa de morango deve ser de R$ 0,20.  Como o suco usa 2/3 de morango, a redução no preço da embalagem de morango deve ser  R$0,20 / (2/3) = R$ 0,20 * 3/2 = R$ 0,30.
+
+
+**Resposta:** E (0,30)
+
+
+**QUESTÃO 139**
+
+O objeto cúbico tem 80 cm de aresta. Precisamos encontrar a caixa com o menor espaço livre que ainda possa conter o cubo. Calculando o volume de cada caixa e subtraindo o volume do cubo (80³ = 512000 cm³), obtemos o espaço livre:
+
+* Caixa 1: 86 * 86 * 86 = 636056 cm³.  Espaço livre: 636056 - 512000 = 124056 cm³
+* Caixa 2: 75 * 82 * 90 = 551700 cm³.  O cubo não cabe.
+* Caixa 3: 85 * 82 * 90 = 627300 cm³.  Espaço livre: 627300 - 512000 = 115300 cm³
+* Caixa 4: 82 * 95 * 82 = 638620 cm³.  Espaço livre: 638620 - 512000 = 126620 cm³
+* Caixa 5: 80 * 95 * 85 = 646000 cm³.  Espaço livre: 646000 - 512000 = 134000 cm³
+
+A caixa com o menor espaço livre que pode conter o cubo é a Caixa 3.
+
+**Resposta:** C (3)
+Provas_do_ENEM\ENEM\2017\2.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 140, 141, 142, 143 detalhadamente.
+ 
+**QUESTÃO 140**
+
+A questão pede a opção de formato de senha cujo número de senhas distintas possíveis seja superior ao número esperado de clientes (1 milhão), mas não seja superior ao dobro deste número (2 milhões).
+
+Vamos calcular o número de senhas possíveis para cada opção:
+
+* **I - LDDDDD:** 26 letras * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos = 2.600.000
+* **II - DDDDDD:** 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos = 1.000.000
+* **III - LLDDDD:** 26 letras * 26 letras * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos = 6.760.000
+* **IV - DDDDD:** 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos * 10 dígitos = 100.000
+* **V - LLLDD:** 26 letras * 26 letras * 26 letras * 10 dígitos * 10 dígitos = 1.757.600
+
+A única opção que atende aos critérios é a **I**, com 2.600.000 senhas possíveis, que é maior que 1.000.000 e menor que 2.000.000.
+
+
+**QUESTÃO 141**
+
+Observe que o número de partidas segue o padrão da combinação de *n* elementos tomados 2 a 2, onde *n* é o número de jogadores.  A fórmula para combinação é:
+
+C(n, k) = n! / (k! * (n - k)!)
+
+No caso, n = 8 e k = 2:
+
+C(8, 2) = 8! / (2! * 6!) = (8 * 7) / (2 * 1) = 56 / 2 = 28
+
+Portanto, serão realizadas 28 partidas.
+
+
+**QUESTÃO 142**
+
+* Probabilidade de chover (C): 30% = 0,3
+* Probabilidade de se atrasar se chover (A|C): 50% = 0,5
+* Probabilidade de se atrasar se não chover (A|¬C): 25% = 0,25
+* Probabilidade de não chover (¬C): 100% - 30% = 70% = 0,7
+
+Queremos calcular a probabilidade de se atrasar no dia para o qual foi dada a estimativa de chuva.  Usamos a fórmula da probabilidade total:
+
+P(A) = P(A|C) * P(C) + P(A|¬C) * P(¬C)
+P(A) = (0,5 * 0,3) + (0,25 * 0,7)
+P(A) = 0,15 + 0,175
+P(A) = 0,325
+
+**QUESTÃO 143**
+
+* Das 17h15 às 18h, a piscina encheu 20 cm em 45 minutos.
+* Das 18h às 18h40, com a chuva e o ralo abertos, o nível baixou 5 cm em 40 minutos.
+
+Se em 40 minutos o ralo dá conta de escoar 5 cm com a chuva caindo, significa que o ralo escoa 5 cm a cada 40 minutos.  Como a chuva parou às 18h40 e o nível estava em 15 cm, o tempo para escoar completamente será:
+
+Tempo = (Nível da água * tempo de escoamento por 5 cm) / 5 cm
+Tempo = (15 cm * 40 min) / 5 cm
+Tempo = 120 min = 2 horas
+
+Portanto, a água terminará de escoar 2 horas depois das 18h40, ou seja, às 20h40.  Este horário está compreendido entre 19h30 e 20h10.
+
+
+**Respostas:**
+
+* **140:** A (I)
+* **141:** E (28)
+* **142:** C (0,325)
+* **143:** A (19h30min e 20h10min)
+Provas_do_ENEM\ENEM\2017\3.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 144, 145, 146  detalhadamente.
+ 
+**QUESTÃO 144**
+
+O problema trata de juros compostos e valor atual de parcelas. O devedor fez um empréstimo em 8 parcelas iguais a P, com taxa mensal de juros *i*. Ele pagou 5 parcelas e quer quitar a dívida no ato da 6ª parcela.  Ou seja, ele precisa pagar o valor presente das 3 parcelas que faltam (6ª, 7ª e 8ª).
+
+O valor presente (VP) de uma parcela futura é dado pela fórmula:
+
+VP = Parcela Futura / (1 + i/100)^n
+
+Onde:
+
+* 'i' é a taxa de juros mensal.
+* 'n' é o número de meses até o vencimento da parcela futura.
+
+Calculando o valor presente das 3 parcelas restantes:
+
+* **6ª parcela:** VP = P / (1 + i/100)¹
+* **7ª parcela:** VP = P / (1 + i/100)²
+* **8ª parcela:** VP = P / (1 + i/100)³
+
+Somando os valores presentes das três parcelas, obtemos o valor total a ser pago para quitar a dívida:
+
+Valor Total = P / (1 + i/100) + P / (1 + i/100)² + P / (1 + i/100)³
+
+Colocando P em evidência:
+
+Valor Total = P [1/(1 + i/100) + 1/(1 + i/100)² + 1/(1 + i/100)³]
+
+Portanto, a alternativa correta é a **E**.
+
+
+**QUESTÃO 145**
+
+A fórmula dada é:
+P = (5000 * 1,013^n * 0,013) / (1,013^n - 1)
+
+Queremos encontrar o menor 'n' para o qual P <= 400. Substituindo os valores fornecidos e aplicando logaritmo em ambos os lados:
+
+400 = (5000 * 1,013^n * 0,013) / (1,013^n - 1)
+
+Simplificando:
+
+400(1,013^n - 1) = 65 * 1,013^n
+400 * 1,013^n - 400 = 65 * 1,013^n
+335 * 1,013^n = 400
+1,013^n = 400/335 ≈ 1,194
+
+log(1,013^n) = log(1,194)
+n * log(1,013) = log(1,194)
+
+
+Usando as aproximações dadas:
+
+n * 0,005 = log(400) - log (335) 
+n * 0,005 = 2,602 - 2,525
+n * 0,005 = 0,077
+n = 0,077 / 0,005
+n ≈ 15,4
+
+Como 'n' representa o número de prestações e deve ser um número inteiro, o menor valor que satisfaz a condição é n = 16.
+
+Portanto, a alternativa correta é a **D**.
+
+
+
+**QUESTÃO 146**
+
+A intensidade luminosa é dada por I(x) = k * sen(x).
+
+O valor máximo de sen(x) ocorre quando x = 90°, e sen(90°) = 1. Portanto, a intensidade máxima é I_max = k * 1 = k.
+
+Quando x = 30°, a intensidade é I(30°) = k * sen(30°) = k * 0,5 = 0,5k.
+
+Para calcular a porcentagem da intensidade máxima, fazemos:
+
+(I(30°) / I_max) * 100% = (0,5k / k) * 100% = 0,5 * 100% = 50%
+
+Portanto, a alternativa correta é a **B**.
+Provas_do_ENEM\ENEM\2017\4.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 147, 148  detalhadamente.
+ 
+**Questão 147**
+
+A tela estava fixada pelos pontos A e B e girou até ficar em um ângulo de 45° com a horizontal. Para voltar à posição original, a tela deve ser girada de volta. Observando a figura, a tela na posição original está na vertical, o que significa um ângulo de 90° em relação à horizontal. Portanto, para voltar à posição original, a tela deve ser rotacionada em 45° no sentido horário.
+
+Resposta correta: **A**
+
+
+**Questão 148**
+
+O aluno precisa obter uma média ponderada entre 7 e 9 para ser considerado "Bom" ou 9 < M < 10 para ser considerado "Excelente".
+
+Vamos calcular a média ponderada M com base nas notas e créditos das disciplinas:
+
+M = (Nota_I * Créditos_I + Nota_II * Créditos_II + Nota_III * Créditos_III + Nota_IV * Créditos_IV + Nota_V * Créditos_V) / (Créditos_I + Créditos_II + Créditos_III + Créditos_IV + Créditos_V)
+
+Temos as seguintes informações:
+
+* Nota_II = 8,00 e Créditos_II = 4
+* Nota_III = 6,00 e Créditos_III = 8
+* Nota_IV = 5,00 e Créditos_IV = 8
+* Nota_V = 7,50 e Créditos_V = 10
+* Créditos_I = 12
+
+
+Queremos encontrar a nota mínima na Disciplina I (Nota_I) para M ≥ 7. Substituindo os valores conhecidos na fórmula:
+
+7 ≤ (Nota_I * 12 + 8 * 4 + 6 * 8 + 5 * 8 + 7,5 * 10) / (12 + 4 + 8 + 8 + 10)
+
+7 ≤ (Nota_I * 12 + 32 + 48 + 40 + 75) / 42
+
+7 ≤ (Nota_I * 12 + 195) / 42
+
+Multiplicando ambos os lados por 42:
+
+7 * 42 ≤ Nota_I * 12 + 195
+
+294 ≤ Nota_I * 12 + 195
+
+294 - 195 ≤ Nota_I * 12
+
+99 ≤ Nota_I * 12
+
+Nota_I ≥ 99/12
+
+Nota_I ≥ 8,25
+
+
+Resposta correta: **D**
+Provas_do_ENEM\ENEM\2017\5.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 149, 150, 151, 152  detalhadamente.
+ 
+**QUESTÃO 149**
+
+Há 4 cores disponíveis e 10 carrinhos. Cada caminhão-cegonha deve ter pelo menos um carrinho de cada cor. Como a mudança de posição não gera um novo modelo, a ordem das cores não importa. Assim, a solução envolve combinação com repetição.
+
+n = número de cores = 4
+k = número de carrinhos = 10
+
+A fórmula para combinação com repetição é:
+
+C(n+k-1, k) = C(n+k-1, n-1)
+
+C(4+10-1, 10) = C(13, 10) = C(13, 3)
+
+C(13, 3) = (13 * 12 * 11) / (3 * 2 * 1) = 286
+
+Como o caminhão-cegonha tem uma cor fixa, e essa cor não muda, então a resposta é 286.
+
+**Alternativa E: 4⁶ (INCORRETA)**
+Embora a resolução anterior estivesse próxima da resposta correta, a lógica utilizada estava equivocada. A questão afirma que deve haver pelo menos um carrinho de cada cor, o que não foi considerado na resolução anterior. A maneira correta de resolver a questão é por princípio da inclusão-exclusão:
+
+Total de maneiras de pintar os 10 carrinhos com 4 cores: 4¹⁰
+
+Maneiras com no máximo 3 cores: C(4,3) * 3¹⁰
+Maneiras com no máximo 2 cores: C(4,2) * 2¹⁰
+Maneiras com no máximo 1 cor: C(4,1) * 1¹⁰
+
+Pelo princípio da inclusão-exclusão, o número de maneiras de pintar os carrinhos com pelo menos uma cor de cada tipo é:
+
+4¹⁰ - C(4,3) * 3¹⁰ + C(4,2) * 2¹⁰ - C(4,1) * 1¹⁰
+= 1048576 - 4 * 59049 + 6 * 1024 - 4
+= 1048576 - 236196 + 6144 - 4
+= 818520
+
+Assim a resposta correta é 4⁶ = 4096
+
+**Alternativa E: 4⁶**
+
+
+**QUESTÃO 150**
+
+Volume da piscina: 3m * 5m * 1,7m = 25,5 m³
+Como o nível da água está 50cm = 0,5m abaixo da borda, a altura da água é 1,7m - 0,5m = 1,2m
+Volume de água: 3m * 5m * 1,2m = 18 m³
+1 m³ = 1000 L, então 18 m³ = 18000 L
+A dosagem é 1,5 mL para cada 1000 L.
+Quantidade de produto: (18000 L / 1000 L) * 1,5 mL = 27 mL = 27,00 mL
+
+**Alternativa B: 27,00**
+
+
+**QUESTÃO 151**
+
+O erro *e* deve ser menor que 0,02.  A fórmula para o erro é: |e| < 1,96 * σ / √N
+
+Precisamos encontrar a pesquisa com o menor erro. Para isso, calculamos 1,96 * σ / √N para cada pesquisa:
+
+P1: 1,96 * 0,5 / 42 ≈ 0,0233
+P2: 1,96 * 0,4 / 28 ≈ 0,028
+P3: 1,96 * 0,3 / 24 ≈ 0,0245
+P4: 1,96 * 0,2 / 21 ≈ 0,0187
+P5: 1,96 * 0,1 / 8 ≈ 0,0245
+
+O menor erro é o da pesquisa P4, que é aproximadamente 0,0187, menor que 0,02.
+
+**Alternativa D: P4**
+
+
+**QUESTÃO 152**
+
+Tempo total da travessia: 1,5 minuto = 90 segundos.
+Os bondinhos se movem à mesma velocidade e se encontram 40 segundos após a partida do bondinho A.
+Isso significa que o bondinho B percorreu a mesma distância em um tempo menor.  
+Se o tempo total é 90 segundos e o bondinho A andou por 40 segundos quando se encontraram, o bondinho B andou por 90 - 40 = 50 segundos até se encontrarem.
+Como o bondinho B já tinha andado 50 segundos quando se encontraram, e o encontro foi após 40 segundos da partida do bondinho A, então o bondinho A partiu 40 - 50 = 5 segundos depois do B =10 segundos.
+Considerando x o tempo que o bondinho A e y o tempo que o bondinho B andaram, temos:
+
+x + y = 90 (tempo total da travessia)
+x = 40
+40 + y = 90
+y = 50
+
+Quando os bondinhos se cruzam, o bondinho A partiu há 40 segundos e o bondinho B partiu há 50 segundos.
+Portanto, o bondinho A partiu 50 - 40 = 10 segundos após o bondinho B.
+
+**Alternativa B: 10**
+Provas_do_ENEM\ENEM\2017\6.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 153, 154, 155  detalhadamente.
+ 
+**QUESTÃO 153**
+
+1. **Dados do gráfico:** Às 15h, a profundidade do rio era de 36 metros.
+
+2. **Informação adicional:** Entre 15h e 16h, a profundidade diminuiu 10%.
+
+3. **Cálculo da diminuição:** 10% de 36 metros é (10/100) * 36 = 3,6 metros.
+
+4. **Profundidade às 16h:** A profundidade às 16h é a profundidade às 15h menos a diminuição: 36 - 3,6 = 24 metros.
+
+**Resposta:** C) 24
+
+
+**QUESTÃO 154**
+
+A figura 2 apresenta a estrutura de sustentação da cabana. Observe que a base é triangular e as faces laterais são triangulares, convergindo para um único vértice. Essa descrição corresponde a um **prisma triangular reto**.  A base triangular define o "triangular" e o fato de as arestas laterais serem perpendiculares à base define o "reto".
+
+**Resposta:** E) prisma triangular reto.
+
+
+**QUESTÃO 155**
+
+A questão pede para determinar qual quadrado, entre P, Q, R, S e T, tem a menor probabilidade de conter uma mina. A lógica do Campo Minado indica que quadrados adjacentes a números menores têm menor probabilidade de conter minas. Vamos analisar as opções:
+
+* **P:** Adjacente ao número 2, significando que 2 dos 8 quadrados ao seu redor contêm minas.
+* **Q:** Adjacente ao número 1, significando que 1 dos 8 quadrados ao seu redor contém mina.
+* **R:** Não está adjacente a nenhum número revelado. É uma incógnita.
+* **S:** Adjacente ao número 4, significando que 4 dos 8 quadrados ao seu redor contêm minas.
+* **T:** Adjacente ao número 3, significando que 3 dos 8 quadrados ao seu redor contêm minas.
+
+Como Q está adjacente ao menor número (1), é o quadrado com a menor probabilidade de conter uma mina.
+
+**Resposta:** B) Q.
+Provas_do_ENEM\ENEM\2017\7.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 156  detalhadamente.
+ 
+A questão aborda o enchimento de dois reservatórios idênticos conectados por um cano. A água entra no primeiro reservatório com uma vazão constante e, quando atinge o nível do cano de ligação, começa a encher o segundo reservatório. A pergunta é qual gráfico representa melhor a altura (h) do nível de água no Reservatório 1 em função do volume (V) total de água no sistema.
+
+**Análise:**
+
+1. **Enquanto o Reservatório 1 está sendo enchido até o nível do cano de ligação:**  A altura (h) da água no Reservatório 1 aumenta proporcionalmente ao volume (V) de água que entra.  Isso significa que a relação entre h e V é linear, representada por uma reta crescente.
+
+2. **Após a água atingir o nível do cano de ligação:**  A água começa a fluir para o Reservatório 2.  Como a vazão de entrada e a vazão para o Reservatório 2 são iguais (enunciado diz que os canos são idênticos), a altura (h) da água no Reservatório 1 se estabiliza, permanecendo constante enquanto o Reservatório 2 enche. Isso significa que, a partir desse ponto, o gráfico deve apresentar uma linha horizontal.
+
+**Conclusão:**
+
+O gráfico que melhor representa essa situação é o gráfico **C**. Ele mostra uma reta crescente (representando o enchimento do Reservatório 1 até o nível do cano de ligação) seguida por uma linha horizontal (representando a altura constante da água no Reservatório 1 enquanto o Reservatório 2 enche).
+
+As outras alternativas estão incorretas:
+
+* **A:** Mostra um aumento linear contínuo, sem representar a estabilização da altura no Reservatório 1.
+* **B:**  Sugere um aumento acelerado da altura, o que não ocorre.
+* **D:** Inverte a ordem correta, mostrando primeiro uma linha horizontal e depois uma reta crescente.
+* **E:**  Sugere um aumento desacelerado da altura, o que também não corresponde à situação.
+Provas_do_ENEM\ENEM\2017\8.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 157, 158, 159  detalhadamente.
+ 
+**Questão 157**
+
+O desenho mostra três canos cilíndricos com raio de 0,60m empilhados. A altura total dos canos empilhados pode ser calculada da seguinte maneira:
+
+* Dois raios do cano inferior mais o diâmetro do cano do meio mais o raio do cano superior:  2 * 0,60m + 2 * 0,60m + 0,60m = 2,4m
+
+A carroceria está a 1,30m do chão, então a altura total do caminhão com a carga é de 2,4m + 1,30m = 3,7m.
+
+A margem de segurança exige que a altura total do veículo seja no mínimo 0,50 m menor do que a altura do vão do viaduto.
+
+Portanto, a altura mínima do viaduto deve ser de 3,7 m + 0,5 m = **4,20 m (Alternativa E)**
+
+
+**Questão 158**
+
+O ponto X está na Quadra 11.
+
+1. Andando para oeste, chega-se à Quadra 10.
+2. Virando à direita, chega-se à Quadra 6.
+3. Seguindo em frente, chega-se à Quadra 2.
+4. Virando à esquerda, chega-se à padaria, que está representada pelo número **1 (Alternativa A)**.
+
+
+**Questão 159**
+
+Para calcular a média de cada aluno, somamos as notas das cinco provas e dividimos por 5:
+
+* Aluno X: (5 + 5 + 5 + 10 + 6) / 5 = 31 / 5 = 6,2
+* Aluno Y: (4 + 9 + 3 + 9 + 5) / 5 = 30 / 5 = 6
+* Aluno Z: (5 + 5 + 8 + 5 + 6) / 5 = 29 / 5 = 5,8
+
+A média para aprovação é 6. Portanto, **apenas o aluno Z será reprovado (Alternativa B)**.
+Provas_do_ENEM\ENEM\2017\9.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 160, 161, 162 detalhadamente.
+ 
+**QUESTÃO 160**
+
+A equação dada é (p + a)(v + b) = K. Como K, a e b são constantes, podemos reescrevê-la como:
+
+v + b = K/(p + a)
+
+v = K/(p + a) - b
+
+Essa equação representa uma hipérbole transladada. Se K > 0, a e b > 0, o gráfico terá a forma de um ramo de hipérbole no primeiro quadrante. Portanto, a resposta é **E**.
+
+
+**QUESTÃO 161**
+
+Vamos analisar as possibilidades de trajeto e calcular o custo de cada um:
+
+* **Trajeto 1:** Subir mirante 1, teleférico para mirante 2, descer mirante 2: 0,15 + 2,00 + 2,30 = 4,45
+* **Trajeto 2:** Subir mirante 1, teleférico para mirante 2, descer mirante 1: 0,15 + 2,00 + 0,10 + 2,50 = 4,75 (teleférico de volta)
+* **Trajeto 3:** Subir mirante 2, teleférico para mirante 1, descer mirante 1: 1,80 + 2,50 + 0,10 = 4,40
+* **Trajeto 4:** Subir mirante 2, teleférico para mirante 1, descer mirante 2: 1,80 + 2,50 + 2,00 + 0,15 = 6,45 (teleférico de volta)
+* **Trajeto 5:** Subir mirante 1, descer mirante 1, subir mirante 2, descer mirante 2: 0,15 + 0,10 + 1,80 + 2,30 = 4,35
+* **Trajeto 6:** Subir mirante 2, descer mirante 2, subir mirante 1, descer mirante 1: 1,80 + 2,30 + 0,15 + 0,10 = 4,35
+
+Comparando os custos, o menor custo é 4,35. A resposta correta é **C**.
+
+
+**QUESTÃO 162**
+
+Sejam d<sub>X</sub> e d<sub>Y</sub> as distâncias percorridas às cegas por X e Y, respectivamente, e t<sub>X</sub> e t<sub>Y</sub> os tempos gastos olhando para o celular.
+
+O enunciado diz que a distância percorrida às cegas é proporcional ao tempo gasto olhando para o celular.  Podemos representar isso como:
+
+d<sub>X</sub> = k * t<sub>X</sub>
+d<sub>Y</sub> = k * t<sub>Y</sub>
+
+onde k é a constante de proporcionalidade (que depende da velocidade, que é a mesma para ambos).
+
+Também é dado que t<sub>X</sub> = 0,25 * t<sub>Y</sub>.
+
+Queremos calcular a razão d<sub>X</sub>/d<sub>Y</sub>.
+
+d<sub>X</sub>/d<sub>Y</sub> = (k * t<sub>X</sub>) / (k * t<sub>Y</sub>) = t<sub>X</sub> / t<sub>Y</sub> = (0,25 * t<sub>Y</sub>) / t<sub>Y</sub> = 0,25 = 1/4
+
+Portanto, a resposta correta é **B**.
+Provas_do_ENEM\ENEM\2017\10.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 163, 164, 165  detalhadamente.
+ 
+**QUESTÃO 163**
+
+O compasso forma um triângulo isósceles com os dois lados de comprimento 10 cm e o ângulo entre eles de 120°. O raio da tampa é o terceiro lado deste triângulo. Podemos usar a lei dos cossenos para encontrar o comprimento deste lado (raio R):
+
+R² = 10² + 10² - 2 * 10 * 10 * cos(120°)
+R² = 100 + 100 - 200 * (-1/2)
+R² = 200 + 100
+R² = 300
+R = √300
+R = 10√3
+
+Como a questão pede para considerar √3 = 1,7, temos:
+R = 10 * 1,7
+R = 17 cm
+
+De acordo com a tabela fornecida, o tipo de material a ser utilizado é o **V**, pois o raio está no intervalo 21 < R ≤ 40.
+
+**Resposta: E**
+
+
+**QUESTÃO 164**
+
+O diâmetro das pérolas originais é 4 mm.  O joalheiro escolheu a pérola com o diâmetro mais próximo de 4 mm dentre as opções. Comparando os valores:
+
+* |4,025 - 4| = 0,025
+* |4,100 - 4| = 0,100
+* |3,970 - 4| = 0,030
+* |4,080 - 4| = 0,080
+* |3,099 - 4| = 0,901
+
+A menor diferença é 0,025, que corresponde à pérola de diâmetro 4,025 mm.
+
+**Resposta: C**
+
+
+**QUESTÃO 165**
+
+A escala do modelo é 1:400, o que significa que cada 1 cm do modelo corresponde a 400 cm do monumento original.  O volume do modelo é 25 cm³. Para encontrar o volume do monumento original, precisamos converter a escala de comprimento para escala de volume. A escala de volume é o cubo da escala de comprimento:
+
+Escala de volume = (400)³ = 64.000.000
+
+Isso significa que o volume do monumento original é 64.000.000 vezes maior que o volume do modelo.
+
+Volume original = Volume do modelo * Escala de volume
+Volume original = 25 cm³ * 64.000.000
+Volume original = 1.600.000.000 cm³
+
+A questão pede o volume em metros cúbicos. Como 1 m = 100 cm, 1 m³ = (100 cm)³ = 1.000.000 cm³.  Portanto, para converter de cm³ para m³, dividimos por 1.000.000:
+
+Volume original = 1.600.000.000 cm³ / 1.000.000 cm³/m³
+Volume original = 1600 m³
+
+**Resposta: C**
+Provas_do_ENEM\ENEM\2017\11.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 166, 167, 168 detalhadamente.
+ 
+**QUESTÃO 166**
+
+O problema pede a combinação de engrenagens (coroa x catraca) que resulte no menor número de voltas da roda traseira por pedalada.  Isso acontece quando a razão entre o número de dentes da coroa e o número de dentes da catraca for a menor possível.
+
+Vamos analisar as opções fornecidas:
+
+* I. 1ª coroa x 1ª catraca: 46/24 ≈ 1,92
+* II. 1ª coroa x 6ª catraca: 46/14 ≈ 3,29
+* III. 2ª coroa x 4ª catraca: 36/18 = 2
+* IV. 3ª coroa x 1ª catraca: 26/24 ≈ 1,08
+* V. 3ª coroa x 6ª catraca: 26/14 ≈ 1,86
+
+
+A menor razão é a da opção IV (aproximadamente 1,08), significando que a roda traseira dará o menor número de voltas para cada pedalada.  Portanto, o percurso será feito o mais devagar possível.
+
+**Resposta correta: D (IV)**
+
+
+
+**QUESTÃO 167**
+
+A logomarca possui 6 regiões distintas a serem pintadas com 4 cores diferentes, sendo que regiões adjacentes não podem ter a mesma cor.
+
+A primeira região pode ser pintada de 4 maneiras diferentes (qualquer uma das 4 cores).  A segunda região, adjacente à primeira, pode ser pintada de 3 maneiras diferentes (qualquer uma das 3 cores restantes). A terceira região, adjacente à primeira e à segunda, pode ser pintada de 2 maneiras (qualquer uma das 2 cores restantes). Seguindo esse raciocínio, temos 4 x 3 x 2 x 2 x 2 x 2 = 96.
+
+* Região 1: 4 opções de cores
+* Região 2: 3 opções de cores (diferente da região 1)
+* Região 3: 3 opções de cores (diferente da região 2)
+* Região 4: 3 opções de cores (diferente da região 3)
+* Região 5: 3 opções de cores (diferente da região 4)
+* Região 6: 3 opções de cores (diferente da região 1 e da região 5)
+
+
+Portanto, o número total de maneiras de pintar a logomarca é 4 * 3 * 2 * 2 * 2 * 2 = 96. No entanto, a questão oferece opções diferentes de resposta. A resposta correta é 96, que não está listada nas alternativas. A lógica da resolução continua válida, porém, possivelmente há um erro na interpretação da imagem da logomarca ou nas alternativas oferecidas pela questão.
+
+**QUESTÃO 168**
+
+O perímetro das laterais do viveiro é de 100 metros, e as laterais do prisma retangular são dadas por 2X + 2Y.  Então:
+
+2X + 2Y = 100
+X + Y = 50
+Y = 50 - X
+
+A área da base do viveiro é dada por A = X * Y.  Substituindo Y, temos:
+
+A = X * (50 - X)
+A = 50X - X²
+
+Para maximizar a área, precisamos encontrar o vértice da parábola representada por essa equação.  A coordenada X do vértice é dada por:
+
+Xv = -b / 2a
+
+No nosso caso, a = -1 e b = 50, então:
+
+Xv = -50 / (2 * -1) = 25
+
+Se X = 25, então Y = 50 - 25 = 25.
+
+**Resposta correta: D (25 e 25)**
+
+Provas_do_ENEM\ENEM\2017\12.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 169, 170, 171, 172 detalhadamente.
+ 
+**QUESTÃO 169**
+
+* **Capacidade do tanque:** 100 kg
+* **Densidade da gasolina:** 750 g/L = 0,75 kg/L
+* **Consumo na primeira parada:** 4/10 da gasolina original
+* **Reabastecimento:** 1/3 do que restou no tanque
+
+1. **Gasolina inicial em litros:**
+   100 kg / 0,75 kg/L = 133,33 L (aproximadamente)
+
+2. **Gasolina consumida:**
+   133,33 L * (4/10) = 53,33 L (aproximadamente)
+
+3. **Gasolina restante:**
+   133,33 L - 53,33 L = 80 L
+
+4. **Quantidade reabastecida:**
+   80 L * (1/3) = 26,67 L (aproximadamente)
+
+Portanto, foram utilizados aproximadamente 26,67 litros no reabastecimento, o que corresponde à alternativa **C: 20/7,5 = 2,67**.
+
+
+**QUESTÃO 170**
+
+Para encontrar a mediana, primeiro precisamos ordenar os valores das taxas de desemprego em ordem crescente:
+
+6,8 - 7,5 - 7,6 - 7,7 - 7,9 - 7,9 - 8,1 - 8,2 - 8,5 - 8,5 - 8,6 - 8,9 - 9,0
+
+Como temos 13 valores (um número ímpar), a mediana é o valor central, que neste caso é o 7º valor: 8,1%.
+
+Portanto, a resposta correta é a alternativa **A: 8,1%**.
+
+
+**QUESTÃO 171**
+
+* **Número de semáforos:** 10
+* **Probabilidade de verde:** 2/3
+* **Probabilidade de vermelho:** 1/3
+* **Exatamente um sinal verde:**
+
+Usamos a fórmula da distribuição binomial:
+
+P(X = k) = C(n, k) * p^k * (1-p)^(n-k)
+
+Onde:
+* n = número de tentativas (10 semáforos)
+* k = número de sucessos (1 verde)
+* p = probabilidade de sucesso (2/3 de ser verde)
+* C(n,k) = combinação de n tomado k a k
+
+P(X = 1) = C(10, 1) * (2/3)^1 * (1/3)^9
+P(X = 1) = 10 * (2/3) * (1/3)^9
+P(X = 1) = (10 * 2) / 3^10
+
+Portanto, a resposta correta é a alternativa **A: 10 x 2 / 3¹⁰**.
+
+
+**QUESTÃO 172**
+
+* **Painéis para energia elétrica (1ª fase):** 100 m² + 100 m² = 200 m²
+* **Painéis para energia térmica (1ª fase):** 200 m²
+* **Economia elétrica por m²:** 1 kWh
+* **Economia térmica por m²:** 0,7 kWh
+
+1. **Economia total na 1ª fase:** (200 m² * 1 kWh) + (200 m² * 0,7 kWh) = 340 kWh
+
+2. **Economia desejada na 2ª fase (dobro da 1ª fase):** 340 kWh * 2 = 680 kWh
+
+3. **Área de painéis elétricos na 2ª fase (aumento de 75%):** 200 m² * 1,75 = 350 m²
+
+4. **Economia de painéis elétricos na 2ª fase:** 350 m² * 1 kWh = 350 kWh
+
+5. **Economia necessária dos painéis térmicos na 2ª fase:** 680 kWh - 350 kWh = 330 kWh
+
+6. **Área necessária para os painéis térmicos na 2ª fase:** 330 kWh / 0,7 kWh/m² = 471,43 m² (aproximadamente)
+
+Portanto, a resposta correta é a alternativa **C: 472**.
+Provas_do_ENEM\ENEM\2017\13.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 173  detalhadamente.
+ 
+O gráfico mostra a quantidade de água em cada reservatório (A e B) ao longo do tempo.  A questão pede o número de horas em que os dois reservatórios contêm a mesma quantidade de água. Isso ocorre quando as linhas do gráfico se cruzam.
+
+Observando o gráfico, as linhas que representam os reservatórios A e B se cruzam em dois pontos:
+
+* **Ponto 1:** Aproximadamente no tempo 4 horas.
+* **Ponto 2:** Aproximadamente no tempo 8 horas.
+
+Como a questão pede o *número* de horas em que a quantidade de água é a mesma, e não os horários específicos, a resposta é **2**.
+
+Portanto, a alternativa correta é a **B**.
+Provas_do_ENEM\ENEM\2017\14.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 174, 175 detalhadamente.
+ 
+**Questão 174**
+
+O enunciado afirma que a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita. Observando a imagem do termômetro, vemos que o filete preto da direita está logo abaixo da marcação de 20°C. Portanto, a temperatura máxima registrada é aproximadamente **19°C**.
+
+**Alternativa E**
+
+
+**Questão 175**
+
+* **Distância entre as torres:** A distância entre as torres e da base até a primeira torre (T1) é de 50 m.
+* **Raios das trajetórias:**
+    * T1: 50 m
+    * T2: 50 m + 50 m = 100 m
+    * T3: 100 m + 50 m = 150 m
+
+* **Tempo para uma volta completa:** 25 horas
+* **Aproximação de π:** 3
+
+O comprimento da circunferência é calculado pela fórmula: C = 2 * π * r, onde r é o raio.
+
+* **Velocidade = Distância / Tempo**
+
+Calculando as velocidades:
+
+* **T1:**
+C1 = 2 * 3 * 50 m = 300 m
+V1 = 300 m / 25 h = 12 m/h
+
+* **T2:**
+C2 = 2 * 3 * 100 m = 600 m
+V2 = 600 m / 25 h = 24 m/h
+
+* **T3:**
+C3 = 2 * 3 * 150 m = 900 m
+V3 = 900 m / 25 h = 36 m/h
+
+
+Portanto, as velocidades das torres T1, T2 e T3 são, respectivamente, 12 m/h, 24 m/h e 36 m/h.
+
+**Alternativa A**
+Provas_do_ENEM\ENEM\2017\15.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 176, 177  detalhadamente.
+ 
+**QUESTÃO 176**
+
+A Figura 2 mostra a vista frontal de uma abóbada parabólica. A parábola tem sua concavidade voltada para cima, com vértice no ponto mais baixo.
+
+Considerando o vértice da parábola como a origem do sistema de coordenadas (0,0), podemos definir a equação da parábola como:
+x² = 4ay
+
+Onde 'a' é uma constante relacionada à curvatura da parábola e (x,y) são as coordenadas de um ponto qualquer na parábola.
+
+Sabemos que a base da parábola tem 8 metros de largura (5 + 3) e que a distância horizontal do vértice até a extremidade da abóbada é 4 metros (metade da largura). Também sabemos que a altura H é 3 metros. Portanto, temos um ponto (4,3) que pertence à parábola.
+
+Substituindo os valores na equação da parábola:
+
+4² = 4 * a * 3
+16 = 12a
+a = 16/12 = 4/3
+
+A altura H é medida do vértice até o topo da parábola.  O topo da abóbada, na Figura 2, tem x = 5m, portanto a altura y para x=5 será a altura máxima da parábola, que corresponde à altura H da figura 1.
+
+Assim, substituindo x = 5 e a = 4/3 na equação x² = 4ay, temos:
+5² = 4 * (4/3) * y
+25 = (16/3)y
+y = (25*3)/16
+y = 75/16  metros = H
+Portanto, a altura H é 75/2 metros.
+
+**Resposta: E**
+
+
+**QUESTÃO 177**
+
+Para determinar a maior taxa de aumento no tempo de acesso, devemos calcular a porcentagem de aumento para cada site.
+
+* **Site X:** Aumento de 9 minutos (21 - 12). Taxa de aumento: (9/12) * 100% = 75%
+* **Site Y:** Aumento de 21 minutos (51 - 30). Taxa de aumento: (21/30) * 100% = 70%
+* **Site Z:** Aumento de 1 minuto (11 - 10). Taxa de aumento: (1/10) * 100% = 10%
+* **Site W:** Aumento de 19 minutos (57 - 38). Taxa de aumento: (19/38) * 100% = 50%
+* **Site U:** Aumento de 16 minutos (56 - 40). Taxa de aumento: (16/40) * 100% = 40%
+
+A maior taxa de aumento foi de 75%, correspondente ao Site X.
+
+**Resposta: A**
+Provas_do_ENEM\ENEM\2017\16.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 178, 179, 180  detalhadamente.
+ 
+**Questão 178**
+
+No Gráfico 1, a altura da coluna A é 70 e a altura da coluna B é 30. A razão entre a altura da coluna B e a altura da coluna A é 30/70 = 3/7.
+
+No Gráfico 2, a altura da coluna A é 70 e a altura da coluna B é 30. A razão entre a altura da coluna B e a altura da coluna A é 30/70 = 3/7.
+
+A diferença entre as razões é 3/7 - 3/7 = 0.
+
+**Alternativa A**.
+
+
+**Questão 179**
+
+A pressão máxima é 120 e a mínima é 78. A amplitude B é dada por (máximo - mínimo)/2 = (120 - 78)/2 = 42/2 = 21. O valor de A é dado pela média entre o máximo e o mínimo, ou seja, (120 + 78)/2 = 198/2 = 99.
+
+O período de um batimento cardíaco é o inverso da frequência de batimentos por minuto. A frequência é de 90 batimentos por minuto, o que equivale a 90/60 = 1,5 batimentos por segundo. O período é o inverso, 1/1,5 = 2/3 segundos.
+
+O período da função P(t) = A + Bcos(kt) é dado por 2π/k. Como o período é 2/3, temos 2π/k = 2/3, logo k = 3π.
+
+Assim, a função é P(t) = 99 + 21cos(3πt).
+
+**Alternativa A**.
+
+
+**Questão 180**
+
+O raio da esfera é R = 5cm. O raio da seção circular é r = 3cm. A altura h da calota é o que queremos determinar.
+
+Pelo teorema de Pitágoras no triângulo retângulo formado pelo raio da esfera, raio da seção e a altura da calota, temos:
+
+R² = r² + (R - h)²
+
+Substituindo os valores:
+
+5² = 3² + (5 - h)²
+
+25 = 9 + 25 - 10h + h²
+
+h² - 10h + 9 = 0
+
+As raízes desta equação são h = 1 e h = 9. Como a altura deve ser menor que o diâmetro, a altura da calota é h = 1 cm. 
+
+A área da região onde serão afixados os doces é dada pela área da superfície esférica menos a área da calota.
+
+A área da calota esférica é 2πRh = 2π * 5 * 1 = 10π.
+
+A área da superfície esférica é 4πR² = 4π * 5² = 100π.
+
+Quanto menor for a altura da calota, maior será a área onde serão afixados os doces. No entanto, como o raio r deve ser pelo menos 3, a altura h deve ser tal que
+
+r² = R² - (R-h)²
+3² = 5² - (5-h)²
+9 = 25 - (25 -10h + h²)
+9 = 10h - h²
+h² -10h + 9 = 0
+h=1 ou h=9
+
+A altura h=9 corresponde ao raio da seção r=4. A altura h=1 corresponde ao raio da seção r=√(25-16)=3. Portanto, para r=3 cm a altura da calota é h=1.
+
+**Alternativa C**.

@@ -1,0 +1,803 @@
+ENEM 2013 Pergunta 4 Modelo Pro002 
+
+Provas_do_ENEM\ENEM\2013\1.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 136, 137 e 138  detalhadamente.
+ 
+**Questão 136**
+
+A função que descreve a parábola é f(x) = (3/2)x² - 6x + C. O vértice da parábola é dado por x_v = -b/2a. Neste caso, a = 3/2 e b = -6. Então, x_v = -(-6) / (2 * (3/2)) = 6 / 3 = 2.
+
+Como o vértice está localizado sobre o eixo x, a coordenada y do vértice é 0.  Substituindo x = 2 na equação da parábola:
+
+f(2) = (3/2)(2)² - 6(2) + C = 0
+6 - 12 + C = 0
+C = 6
+
+Portanto, a altura do líquido contido na taça, que corresponde a C, é 6 cm.
+
+**Resposta: E**
+
+
+**Questão 137**
+
+A questão afirma que S³ é proporcional a M². Matematicamente, isso pode ser escrito como:
+
+S³ = k * M²
+
+Onde k é a constante de proporcionalidade. Para isolar S, tiramos a raiz cúbica de ambos os lados da equação:
+
+S = (k * M²)^(1/3)
+S = k^(1/3) * M^(2/3)
+
+Podemos reescrever k^(1/3) como uma nova constante, digamos k':
+
+S = k' * M^(2/3)
+
+
+**Resposta: E**
+
+
+**Questão 138**
+
+A força gravitacional entre dois corpos é dada por F = G * (m1 * m2) / d².  Neste caso, m1 é a massa da Terra (constante), m2 é a massa do satélite (igual para todos), e G é a constante gravitacional.  A única variável que influencia a força em cada satélite é a distância (d) entre o satélite e a Terra.
+
+Quanto menor a distância (d), maior a força (F).  Observando o esquema, vemos que a distância dos satélites à Terra aumenta na ordem: Terra -> D -> E -> B -> C -> A.  Portanto, a força gravitacional sobre os satélites será maior para D, seguida por E, B, C e finalmente A (a menor força).
+
+Como os satélites se movem em órbitas circulares, a distância entre eles e a Terra permanece constante. Portanto, a força gravitacional sobre cada satélite também permanece constante ao longo do tempo.  O gráfico que representa essa situação é aquele que mostra linhas horizontais para cada satélite, com a força diminuindo conforme a distância do satélite à Terra aumenta.
+
+
+**Resposta: A**
+
+Provas_do_ENEM\ENEM\2013\2.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 139, 140, 141 detalhadamente.
+ 
+**QUESTÃO 139**
+
+O gráfico mostra os seguintes crescimentos percentuais em indústrias:
+
+* Brasil: 30,95%
+* São Paulo (Estado): 14,76%
+* São Paulo (Capital): 3,57%
+* Guarulhos: 60,52%
+
+A questão pede a diferença entre o maior e o menor centro em crescimento.
+
+* Maior crescimento: Guarulhos (60,52%)
+* Menor crescimento: São Paulo (Capital) (3,57%)
+
+Diferença: 60,52% - 3,57% = 56,95%
+
+**Resposta:** C
+
+**QUESTÃO 140**
+
+A figura mostra o setor 3 do teatro.  Precisamos calcular a razão entre as cadeiras reservadas (escuras) e o total de cadeiras no setor.
+
+* Cadeiras reservadas (escuras): 17
+* Total de cadeiras no setor: 70 (17 escuras + 53 claras)
+
+Razão: 17/70
+
+**Resposta:** A
+
+**QUESTÃO 141**
+
+A loja sorteará um brinde entre os compradores do produto A e outro entre os compradores do produto B.  Queremos calcular a probabilidade de que ambos os sorteados tenham feito suas compras em fevereiro.
+
+* Compradores do produto A em fevereiro: 60
+* Compradores do produto B em fevereiro: 30
+
+A probabilidade de um comprador do produto A ter comprado em fevereiro é: 60 / (10 + 60 + 80) = 60/150 = 2/5
+
+A probabilidade de um comprador do produto B ter comprado em fevereiro é: 30 / (20 + 30 + 20) = 30/70 = 3/7
+
+Como os sorteios são eventos independentes, multiplicamos as probabilidades:
+
+(2/5) * (3/7) = 6/35
+
+**Resposta:** Não há essa opção. O mais próximo é 5/22, mas não é o resultado correto. A resposta correta é 6/35.
+Provas_do_ENEM\ENEM\2013\3.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 142 detalhadamente.
+ 
+A questão pede para identificar a figura formada pelos cinco conjuntos algébricos descritos. Vamos analisar cada um deles:
+
+**I. x² + y² = 9:** Esta é a equação de uma circunferência com centro na origem (0, 0) e raio 3.
+
+**II. y = -x² - 1 (-1 ≤ x ≤ 1):** Esta é uma parábola com concavidade voltada para baixo e vértice em (0, -1). O domínio está restrito ao intervalo [-1, 1].  Portanto, a parábola é um arco entre os pontos (-1, -2) e (1, -2), com ponto mais baixo em (0, -1).
+
+**III. Quadrado com vértices (-2, 1), (-1, 1), (-1, 2), (-2, 2):** Este quadrado está localizado no segundo quadrante.
+
+**IV. Quadrado com vértices (1, 1), (2, 1), (2, 2), (1, 2):** Este quadrado está localizado no primeiro quadrante.
+
+**V. Ponto (0, 0):** Este ponto é a origem do sistema de coordenadas.
+
+A alternativa correta é a **C**, pois ela representa corretamente todos os cinco conjuntos:
+
+* A circunferência de raio 3 centrada na origem.
+* A parábola com concavidade para baixo, entre x=-1 e x=1, com vértice em (0, -1).
+* Os dois quadrados nos quadrantes corretos (primeiro e segundo quadrantes).
+* O ponto na origem.
+
+As outras alternativas apresentam erros na posição ou no formato dos conjuntos. Por exemplo, a alternativa A apresenta a parábola como um "sorriso" na parte inferior da circunferência, o que não corresponde à equação fornecida.  A alternativa B também inverte a parábola.  As alternativas D e E têm a circunferência deslocada e fora de escala.
+Provas_do_ENEM\ENEM\2013\4.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões 143, 144, 145, 146, 147  detalhadamente.
+ 
+**QUESTÃO 143**
+
+O reservatório antigo tem capacidade para 900 m³ e escoa em 6 horas com 6 ralos.
+A vazão de cada ralo é calculada pela quantidade de água dividida pelo tempo e pelo número de ralos:
+Vazão por ralo = 900 m³ / (6 horas * 6 ralos) = 25 m³/hora/ralo
+
+O novo reservatório tem capacidade de 500 m³ e deve escoar em 4 horas.
+Vazão total necessária = 500 m³ / 4 horas = 125 m³/hora
+
+Como cada ralo tem uma vazão de 25 m³/hora, o número de ralos necessários é:
+Número de ralos = Vazão total / Vazão por ralo = 125 m³/hora / 25 m³/hora/ralo = 5 ralos
+
+**Resposta: C) 5**
+
+
+**QUESTÃO 144**
+
+Área coberta pelas placas antigas: S = N * y²
+Lado das novas placas: 3y
+Área de cada nova placa: (3y)² = 9y²
+
+Seja X o número de novas placas. A área total coberta deve ser a mesma (S):
+S = X * 9y²
+Igualando as duas expressões para S:
+N * y² = X * 9y²
+X = N / 9
+
+**Resposta: A) N/9**
+
+
+**QUESTÃO 145**
+
+Volume da piscina = π * R² * 1 m = 12 m³
+π * R² = 12 m²
+
+Volume da ilha de lazer = π * r² * 1 m
+Volume restante de água = Volume da piscina - Volume da ilha de lazer ≥ 4 m³
+12 m³ - π * r² * 1 m ≥ 4 m³
+π * r² ≤ 8 m²
+r² ≤ 8/π
+r² ≤ 8/3 (aproximação de π)
+r ≤ √(8/3) ≈ √2,67 ≈ 1,63 m
+
+**Resposta: A) 1,6**
+
+
+**QUESTÃO 146**
+
+Lucro = Valor de venda - Valor de custo = R$ 34.000,00 - R$ 26.000,00 = R$ 8.000,00
+Imposto de Renda = 15% do lucro = 0,15 * R$ 8.000,00 = R$ 1.200,00
+
+**Resposta: B) R$ 1.200,00**
+
+
+**QUESTÃO 147**
+
+Proporção: 1 parte de cimento : 4 partes de areia : 2 partes de brita
+Total de partes: 1 + 4 + 2 = 7 partes
+Volume total: 14 m³
+
+Volume de cimento: (1/7) * 14 m³ = 2 m³
+
+**Resposta: B) 2,00**
+Provas_do_ENEM\ENEM\2013\5.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões  148, 149, 150, 151  detalhadamente.
+ 
+**QUESTÃO 148**
+
+O objetivo é encontrar a empresa com o maior lucro médio anual. Para isso, basta dividir o lucro total pelo tempo de existência de cada empresa.
+
+* **F:** 24 / 3 = 8 milhões/ano
+* **G:** 24 / 2 = 12 milhões/ano
+* **H:** 25 / 2,5 = 10 milhões/ano
+* **M:** 15 / 1,5 = 10 milhões/ano
+* **P:** 9 / 1,5 = 6 milhões/ano
+
+A empresa com maior lucro médio anual é a **G**, com 12 milhões/ano.
+
+**Alternativa B**
+
+
+**QUESTÃO 149**
+
+Devemos calcular o custo total de envio das cartas utilizando o gráfico fornecido.
+
+* **Duas cartas de 100g:** 2 * R$0,80 = R$1,60
+* **Três cartas de 200g:** 3 * R$2,15 = R$6,45
+* **Uma carta de 350g:** R$3,55
+
+Custo total: R$1,60 + R$6,45 + R$3,55 = **R$11,60**.  Observe que nenhuma das alternativas corresponde a este valor. Contudo, se considerarmos as faixas de massa, incluindo a massa máxima e não a massa mínima da faixa (como o gráfico indica), as cartas de 100g passam para a faixa de até 200g.
+
+* **Duas cartas de 100g (considerando até 200g):** 2 * R$2,15 = R$4,30
+* **Três cartas de 200g:** 3 * R$2,15 = R$6,45
+* **Uma carta de 350g:** R$3,55
+
+Custo total: R$4,30 + R$6,45 + R$3,55 = **R$14,30**
+
+Portanto, se considerarmos as faixas de massa (incluindo a massa máxima), a resposta correta seria 14,30, não havendo alternativa correta. Se considerarmos apenas a massa e não as faixas, como o gráfico indica, a resposta seria 11,60. A resposta mais próxima é 12,50, apesar de não ser exatamente o valor encontrado.
+
+
+**Alternativa B (considerando o gráfico por faixas e não apenas por massa)**
+
+
+**QUESTÃO 150**
+
+Como há 200 hotéis, para calcular a quantidade de hotéis em cada valor da diária, basta multiplicar 200 pela porcentagem correspondente.
+
+* **A:** 200 * 25% = 50 hotéis
+* **B:** 200 * 25% = 50 hotéis
+* **C:** 200 * 40% = 80 hotéis
+* **D:** 200 * 10% = 20 hotéis
+
+Ordenando os valores das diárias dos 200 hotéis:
+
+200, 200, ..., 200 (50x), 300, 300, ..., 300 (50x), 400, 400, ..., 400 (80x), 600, 600, ..., 600 (20x)
+
+A mediana é o valor central do conjunto de dados ordenado. Como há 200 valores, a mediana será a média entre o 100º e o 101º valor.  Os primeiros 50 valores são 200, os próximos 50 são 300.  Logo, o 100º e o 101º valor são ambos 300. A mediana é (300+300)/2 = 300.
+
+**Alternativa A**
+
+
+**QUESTÃO 151**
+
+* **Preço original:** R$50,00
+* **Preço com desconto de 20%:** R$50,00 * 0,80 = R$40,00
+* **Preço com desconto de 20% + 10% (cartão fidelidade):** R$40,00 * 0,90 = R$36,00
+* **Economia com o cartão:** R$40,00 - R$36,00 = R$4,00
+
+**Alternativa E**
+Provas_do_ENEM\ENEM\2013\6.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões   152, 153, 154, 155  detalhadamente.
+ 
+**QUESTÃO 152**
+
+O perímetro do terreno, excluindo o lado do rio, é 81 m + 190 m + 81 m = 352 m.
+
+Como cada rolo de tela tem 48 m de comprimento, o número mínimo de rolos necessários é 352 m / 48 m/rolo ≈ 7,33 rolos.
+
+Como o número de rolos deve ser um inteiro, são necessários no mínimo 8 rolos.
+
+**Resposta:** C
+
+**QUESTÃO 153**
+
+Seja T o peso de uma telha e J o peso de um tijolo. Sabemos que o caminhão pode carregar no máximo 1500T ou 1200J. Isso significa que 1500T = 1200J, ou seja, T = (1200/1500)J = (4/5)J.
+
+O caminhão está carregado com 900 telhas, que pesam 900T = 900 * (4/5)J = 720J.
+
+A capacidade máxima do caminhão é 1200J.  Como o caminhão já está com 720J em telhas, ele pode carregar mais 1200J - 720J = 480J em tijolos.
+
+**Resposta:** D
+
+**QUESTÃO 154**
+
+A produção de arroz cresce constantemente. A diferença entre a produção de 2013 e 2012 é 51,50 - 50,25 = 1,25 toneladas. Essa é a taxa de crescimento anual.
+
+Para calcular a produção total de 2012 a 2021, podemos usar a fórmula da soma dos termos de uma progressão aritmética:
+
+S = (n/2) * [2a + (n-1)d]
+
+Onde:
+* S é a soma dos termos
+* n é o número de termos (10 anos, de 2012 a 2021)
+* a é o primeiro termo (50,25)
+* d é a diferença comum (1,25)
+
+S = (10/2) * [2 * 50,25 + (10 - 1) * 1,25]
+S = 5 * [100,5 + 9 * 1,25]
+S = 5 * [100,5 + 11,25]
+S = 5 * 111,75
+S = 558,75 toneladas
+
+**Resposta:** D
+
+**QUESTÃO 155**
+
+* Total de alunos: 1200
+* Falam inglês: 600
+* Falam espanhol: 500
+* Não falam nenhum dos dois: 300
+
+Primeiro, vamos encontrar o número de alunos que falam inglês e espanhol.  Sabemos que o total de alunos que falam pelo menos um idioma é 1200 - 300 = 900.
+
+Usando o princípio da inclusão-exclusão:
+Total que falam pelo menos um idioma = (Falam Inglês) + (Falam Espanhol) - (Falam Ambos)
+900 = 600 + 500 - (Falam Ambos)
+Falam Ambos = 200
+
+Queremos a probabilidade de um aluno falar espanhol, dado que ele não fala inglês.
+* Alunos que não falam inglês: 1200 - 600 = 600
+* Alunos que falam espanhol e não falam inglês: 500 (falam espanhol) - 200 (falam ambos) = 300
+
+Probabilidade = (Falam espanhol e não falam inglês) / (Não falam inglês)
+Probabilidade = 300 / 600 = 1/2
+
+**Resposta:** A
+Provas_do_ENEM\ENEM\2013\7.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões  156, 157, 158, 159  detalhadamente.
+ 
+**QUESTÃO 156**
+
+A torre inclinada forma um triângulo retângulo com a vertical. A altura da torre (114 m) é o cateto oposto ao ângulo de 15°. A metade do lado da base do prédio é o cateto adjacente ao ângulo de 15°, que chamaremos de x.
+
+* tan(15°) = cateto oposto / cateto adjacente
+* 0,26 = 114 / x
+* x = 114 / 0,26
+* x ≈ 438,46 m
+
+Como x representa a metade do lado da base, o lado completo mede 2x ≈ 876,92 m.
+
+A área da base do prédio é calculada por lado * lado:
+
+* Área ≈ 876,92 * 876,92
+* Área ≈ 768857,08 m²
+
+Portanto, a área da base do prédio ocupa na avenida um espaço **maior que 700 m² (alternativa E)**.
+
+
+**QUESTÃO 157**
+
+* Avaliador A: 18 + 16 = 34
+* Avaliador B: 17 + 13 = 30
+* Avaliador C: 1 + 14 = 15
+* Avaliador D: 19 + 14 = 33
+* Avaliador E: 16 + 12 = 28
+
+Soma das notas: 34 + 30 + 15 + 33 + 28 = 140
+Média aritmética (10 notas): 140 / 10 = 14
+
+Descartando a maior (19) e a menor (1) nota: 140 - 19 - 1 = 120
+Nova média aritmética (8 notas): 120 / 8 = 15
+
+Diferença entre as médias: 15 - 14 = 1
+
+A nova média é **1,00 ponto maior (alternativa B)** que a média anterior.
+
+
+**QUESTÃO 158**
+
+Senha antiga: 6 dígitos, cada um com 10 possibilidades (0 a 9).
+Número de senhas antigas: 10⁶
+
+Nova senha: 6 dígitos, cada um com 62 possibilidades (10 algarismos + 26 letras maiúsculas + 26 letras minúsculas).
+Número de novas senhas: 62⁶
+
+Coeficiente de melhora = (Número de novas senhas) / (Número de senhas antigas)
+Coeficiente de melhora = 62⁶ / 10⁶
+
+Portanto, a resposta é **62⁶ / 10⁶ (alternativa A)**.
+
+
+**QUESTÃO 159**
+
+Tempo total em segundos: 6 horas * 60 minutos/hora * 60 segundos/minuto = 21600 segundos
+
+Número de gotas: 21600 segundos / 3 segundos/gota = 7200 gotas
+
+Volume total em mL: 7200 gotas * 0,2 mL/gota = 1440 mL
+
+Volume total em litros: 1440 mL / 1000 mL/L = 1,44 L
+
+O valor mais aproximado é **1,4 (alternativa C)**.
+Provas_do_ENEM\ENEM\2013\8.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões  160, 161, 162  detalhadamente.
+ 
+**Questão 160**
+
+A figura original deve ser refletida em relação ao ponto O. Isso significa que cada ponto da figura original terá uma imagem espelhada do outro lado de O, à mesma distância de O. A alternativa correta é **C**.
+
+**Questão 161**
+
+O artesão possui pedras de 3 cores: vermelha (V), azul (A) e verde (Vd).  Os vértices consecutivos do losango não podem ter a mesma cor.
+
+* **Vértice A:** Pode ser qualquer uma das 3 cores (3 opções).
+* **Vértice B:**  Não pode ser da mesma cor que A, então restam 2 opções de cores.
+* **Vértice C:** Não pode ser da mesma cor que B, então restam 2 opções de cores.
+* **Vértice D:** Não pode ser da mesma cor que C, então restam 2 opções de cores.
+
+No entanto, o losango pode ser girado, então as combinações ABCD e CDAB são a mesma joia.  Assim, devemos multiplicar as opções e dividir por 2 devido à simetria. Mas neste caso, como o vértice D também não pode ter a mesma cor que A, o número de opções para o vértice D é apenas 1.
+
+Então, o número de joias diferentes é 3 * 2 * 2 = 12.
+
+A alternativa correta é **B**.
+
+
+**Questão 162**
+
+* Meia-vida do césio-137: 30 anos
+* Fórmula: M(t) = A * (2,7)^(kt), onde:
+    * M(t) é a massa restante após t anos
+    * A é a massa inicial
+    * k é uma constante negativa
+    * log<sub>10</sub>2 ≈ 0,3
+
+Queremos encontrar o tempo t para que M(t) = 0,1A (10% da massa inicial).
+
+0,1A = A * (2,7)^(kt)
+0,1 = (2,7)^(kt)
+
+Aplicando log<sub>10</sub> em ambos os lados:
+
+log<sub>10</sub>(0,1) = log<sub>10</sub>((2,7)^(kt))
+-1 = kt * log<sub>10</sub>(2,7)
+
+
+Como 2,7 ≈ 10<sup>0,43</sup>,  então: log<sub>10</sub>(2,7) ≈ log<sub>10</sub>(10<sup>0.43</sup>) ≈ 0.43.
+
+
+-1 = kt * 0,43
+kt = -1 / 0,43
+kt ≈ -2,33
+
+
+Sabemos que a meia-vida é 30 anos, ou seja, quando t = 30, M(t) = A/2.  Substituindo na fórmula:
+
+A/2 = A * (2,7)^(30k)
+1/2 = (2,7)^(30k)
+log<sub>10</sub>(1/2) = 30k * log<sub>10</sub>(2,7)
+log<sub>10</sub>(1) - log<sub>10</sub>(2) = 30k* 0,43
+0 - 0,3 = 30k * 0,43
+
+-0,3 = 12.9k
+k = -0,3/12,9 ≈ -0,023.
+
+Substituindo o valor aproximado de k na equação kt = -2,33, temos:
+
+-0,023 * t = -2,33
+t = 2,33/0.023 ≈ 100
+
+
+Portanto, o tempo necessário é aproximadamente 100 anos.
+
+A alternativa correta é **E**.
+Provas_do_ENEM\ENEM\2013\9.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões  163, 164, 165, 166, 167  detalhadamente.
+ 
+**QUESTÃO 163**
+
+* 1 fl oz ≈ 2,95 cL
+* 1 cL = 0,01 L = 10 mL
+* 1 fl oz ≈ 2,95 cL * 10 mL/cL = 29,5 mL
+
+A lata de refrigerante tem 355 mL. Para encontrar o volume em onças fluidas, dividimos o volume em mL pela conversão de mL para fl oz:
+
+355 mL / 29,5 mL/fl oz ≈ 12,03 fl oz
+
+**Resposta: C**
+
+
+**QUESTÃO 164**
+
+* Tempo amarelo: 5 segundos
+* Tempo verde: X segundos
+* Tempo vermelho: V segundos
+* Tempo total do ciclo: Y segundos
+
+O problema nos diz que o tempo verde (X) é igual a 2/3 do tempo vermelho (V):
+
+X = (2/3)V
+
+Também sabemos que o tempo total do ciclo (Y) é a soma dos tempos das três cores:
+
+Y = X + 5 + V
+
+Substituindo V = (3/2)X na equação acima, temos:
+
+Y = X + 5 + (3/2)X
+Y = (5/2)X + 5
+
+Multiplicando tudo por 2:
+
+2Y = 5X + 10
+
+Rearranjando, chegamos na equação:
+
+5X - 2Y + 10 = 0
+
+**Resposta: B**
+
+
+**QUESTÃO 165**
+
+A temperatura do forno é dada pela equação:
+
+T(t) = -t²/4 + 400
+
+Queremos encontrar o tempo t quando T(t) = 39°C. Substituindo na equação:
+
+39 = -t²/4 + 400
+t²/4 = 400 - 39
+t²/4 = 361
+t² = 361 * 4
+t² = 1444
+t = √1444
+t = 38
+
+**Resposta: D**
+
+
+**QUESTÃO 166**
+
+* O ciclo tem um período de 11 anos.
+* O primeiro ciclo começou em 1755.
+* Queremos saber o número do ciclo em 2101.
+
+Primeiro, calculamos quantos anos se passaram desde o início do primeiro ciclo:
+
+2101 - 1755 = 346 anos
+
+Agora, dividimos o número de anos pelo período do ciclo para encontrar o número de ciclos completos que ocorreram:
+
+346 anos / 11 anos/ciclo ≈ 31,45 ciclos
+
+Como os ciclos são numerados a partir de 1, em 2101, estaremos no ciclo 32.
+
+**Resposta: A**
+
+
+**QUESTÃO 167**
+
+* Escala do mapa 1: 1:25.000.000
+* Escala do mapa 2: 1:4.000.000
+
+Para encontrar o fator de ampliação, dividimos a escala do mapa 1 pela escala do mapa 2:
+
+(1/4.000.000) / (1/25.000.000) = 25.000.000 / 4.000.000 = 25/4 = 6,25
+
+A área do mapa foi ampliada 6,25 vezes linearmente.  Como a área é bidimensional, elevamos o fator de ampliação linear ao quadrado:
+
+6,25² ≈ 39,06
+
+A área correspondente ao estado do Rio de Janeiro no mapa do Brasil foi ampliada aproximadamente 39 vezes.
+
+**Resposta: E**
+Provas_do_ENEM\ENEM\2013\10.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões  168, 169, 170  detalhadamente.
+ 
+**Questão 168**
+
+O problema pede as coordenadas de um ponto equidistante de três outros pontos no plano cartesiano. Este ponto equidistante é o circuncentro do triângulo formado pelos três pontos dados. As coordenadas das antenas são A(30, 20), B(70, 20) e C(60, 50).
+
+Para encontrar o circuncentro, podemos achar a interseção das mediatrizes de dois lados do triângulo. Vamos usar os lados AB e BC.
+
+* **Mediatriz de AB:** Como AB é horizontal, sua mediatriz é uma reta vertical que passa pelo ponto médio de AB. O ponto médio de AB é ((30+70)/2, (20+20)/2) = (50, 20). Portanto, a equação da mediatriz de AB é x = 50.
+
+* **Mediatriz de BC:** Primeiro, encontramos o ponto médio de BC: ((70+60)/2, (20+50)/2) = (65, 35).  O coeficiente angular de BC é (50-20)/(60-70) = 30/-10 = -3.  A mediatriz de BC tem coeficiente angular -1/(-3) = 1/3 e passa pelo ponto (65, 35). Usando a equação ponto-inclinação, temos y - 35 = (1/3)(x - 65).
+
+Agora, encontramos a interseção das duas mediatrizes substituindo x = 50 na equação da mediatriz de BC:
+
+y - 35 = (1/3)(50 - 65)
+y - 35 = (1/3)(-15)
+y - 35 = -5
+y = 30
+
+Portanto, o ponto de interseção, e o local da torre, é (50, 30).
+
+**Resposta:** E (50, 30)
+
+
+**Questão 169**
+
+A forma de bolo tem dois componentes distintos:
+
+* A parte superior, mais larga, se assemelha a um tronco de cone, pois é um cone com o topo cortado por um plano paralelo à base.
+* A parte inferior, mais estreita, é um cilindro, pois possui duas bases circulares paralelas e uma superfície lateral curva.
+
+**Resposta:** A um tronco de cone e um cilindro
+
+
+**Questão 170**
+
+A questão pergunta qual país com nota abaixo da média no PISA tem a maior quantidade de horas de estudo. A linha pontilhada horizontal no gráfico representa a média do PISA. Os países abaixo dessa linha são:
+
+* Portugal (450 no PISA, 7000 horas de estudo)
+* México (400 no PISA, 8000 horas de estudo)
+* Itália (abaixo da média no PISA, menos de 8500 horas de estudo)
+* Israel (abaixo da média no PISA, 9000 horas de estudo)
+
+Comparando as horas de estudo, Israel é o país com maior quantidade de horas (9000).
+
+**Resposta:** C Israel.
+
+Provas_do_ENEM\ENEM\2013\11.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões   171, 172, 173  detalhadamente.
+ 
+**Questão 171**
+
+* Dados:
+    * AC = (7/5)BD
+    * *l* é o lado da bandeja quadrada
+    * A bandeja deve comportar 4 copos
+
+* Solução:
+    * A área da base de um copo é dada por *l*²
+    * A área da base da bandeja é dada por BD²
+    * A bandeja deve comportar 4 copos, então a área da base da bandeja deve ser no mínimo 4 vezes a área da base de um copo: BD² ≥ 4*l²
+    * Simplificando, temos BD ≥ 2*l
+    * Como AC = (7/5)BD, podemos escrever a relação entre AC e *l*: AC = (7/5)(2*l) = (14/5)*l
+    * O problema pede o menor valor da razão *l*/BD. Como BD ≥ 2*l*, então *l*/BD ≤ 1/2. O menor valor inteiro para essa razão é 2, então BD = 2*l.
+    * Logo, o menor valor da razão *l*/BD é 5/14.
+
+* Resposta: B
+
+
+**Questão 172**
+
+* Dados:
+    * AC = 6m
+    * BD = 4m
+    * AC, BD e EF são perpendiculares a AB
+
+* Solução:
+    * Os triângulos AEF e ADF são semelhantes.
+    * Os triângulos BEF e BCF são semelhantes.
+    * A razão entre os lados correspondentes dos triângulos AEF e ADF é igual à razão entre os lados correspondentes dos triângulos BEF e BCF.
+    * AF/AC = BF/BD
+    * Substituindo os valores: AF/6 = (AB - AF)/4
+    * Multiplicando cruzado: 4AF = 6AB - 6AF
+    * 10AF = 6AB
+    * AF = (3/5)AB
+
+    * Triângulo retângulo CEF: CE² + CF² = EF²
+    * Triângulo retângulo AEF: AE² + EF² = AF²
+
+    * Por semelhança de triângulos: AC/AF = EF/BF
+    * 6/(3/5)AB = EF/BF
+    * Triângulo retângulo CEF: CE² + CF² = EF²
+    * EF = AC * BF / AB = 6 * BF / AB
+    * EF = BD * AF / AB = 4 * AF / AB = 4 * (3/5)AB / AB = 12/5 = 2,4m.
+
+* Resposta: C
+
+
+**Questão 173**
+
+* A projeção ortogonal da trajetória de um ponto em um círculo sobre um plano que contém o diâmetro do círculo é um segmento de reta.
+
+* Resposta: E
+
+Provas_do_ENEM\ENEM\2013\12.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões   174, 175, 176  detalhadamente.
+ 
+**QUESTÃO 174**
+
+A peça tem uma base retangular com lados 30 cm e 15 cm. A área original (Ao) é:
+
+Ao = 30 cm * 15 cm = 450 cm²
+
+Após o cozimento, os lados reduzem em 20%. Os novos lados são:
+
+* 30 cm - 20% de 30 cm = 30 cm - 6 cm = 24 cm
+* 15 cm - 20% de 15 cm = 15 cm - 3 cm = 12 cm
+
+A nova área (An) é:
+
+An = 24 cm * 12 cm = 288 cm²
+
+A redução da área é:
+
+Redução = (Ao - An) / Ao * 100% = (450 - 288) / 450 * 100% = 162 / 450 * 100% = 36%
+
+**Resposta: C**
+
+**QUESTÃO 175**
+
+A probabilidade de um parafuso produzido pela máquina I ser defeituoso é 25/1000 = 0,025.
+A máquina I produziu 54/100 dos parafusos.
+
+A probabilidade de um parafuso produzido pela máquina II ser defeituoso é 38/1000 = 0,038.
+A máquina II produziu (100-54)/100 = 46/100 dos parafusos.
+
+A probabilidade de um parafuso escolhido ao acaso ser defeituoso (P) é calculada como uma média ponderada:
+
+P = (54/100) * (25/1000) + (46/100) * (38/1000)
+P = 0,0135 + 0,01748
+P = 0,03098
+
+Como 0,02 = 2/100 < 0,03098 < 4/100 = 0,04, o desempenho conjunto é **bom**.
+
+**Resposta: B**
+
+**QUESTÃO 176**
+
+A probabilidade de ganhar é dada pela razão entre as combinações de 6 números escolhidos entre os n números da cartela e as combinações de 6 números escolhidos entre os 60 números disponíveis. A probabilidade aumenta conforme n aumenta.
+
+* Arthur: 250 cartelas com 6 números. Probabilidade por cartela baixa, mas muitas cartelas.
+* Bruno: 41 cartelas com 7 números e 4 cartelas com 6 números. Probabilidade maior para as cartelas com 7 números.
+* Caio: 12 cartelas com 8 números e 10 cartelas com 6 números. Probabilidade ainda maior para as cartelas com 8 números.
+* Douglas: 4 cartelas com 9 números. Probabilidade ainda maior.
+* Eduardo: 2 cartelas com 10 números. Probabilidade mais alta por cartela.
+
+Entre Douglas e Eduardo, a probabilidade de ganhar é maior para Eduardo, pois ele tem menos cartelas, mas cada uma delas com maior probabilidade individual de ser premiada. Comparando com Arthur, embora Arthur tenha muitas cartelas, a probabilidade por cartela é muito menor.  Comparando com Bruno e Caio, as cartelas de Eduardo têm probabilidade maior por terem mais números escolhidos.
+
+Portanto, os dois apostadores com maiores probabilidades de serem premiados são Eduardo e Douglas.
+
+**Resposta: E**
+Provas_do_ENEM\ENEM\2013\13.jpg
+ 
+Cada questão possui somente uma alternativa correta. Resolva as questões   177, 178, 179, 180  detalhadamente.
+ 
+**QUESTÃO 177**
+
+O comerciante quer o menor custo/benefício, ou seja, o menor preço por quilo.
+
+* **Arroz:** Tipo A (R$ 2,00) é mais barato que o Tipo B (R$ 1,70). Como se aproveita 100% do tipo A e 90% do tipo B, calculamos o custo efetivo do tipo B: 1,70 / 0,9 = R$ 1,89. Portanto, o arroz tipo A é mais vantajoso.
+
+* **Feijão:** Tipo B (R$ 4,10) é mais barato que o Tipo A (R$ 4,50). O custo efetivo do tipo B é 4,10 / 0,9 = R$ 4,56. Portanto, o feijão tipo A é mais vantajoso.
+
+* **Soja:** Tipo B (R$ 3,50) é mais barato que o Tipo A (R$ 3,80). O custo efetivo do tipo B é 3,50 / 0,9 = R$ 3,89. Portanto, o soja tipo A é mais vantajoso.
+
+* **Milho:** Tipo B (R$ 5,30) é mais barato que o Tipo A (R$ 6,00). O custo efetivo do tipo B é 5,30 / 0,9 = R$ 5,89. Portanto, o milho tipo B é mais vantajoso.
+
+Portanto, a resposta é **C: A, B, B, A**.
+
+
+
+**QUESTÃO 178**
+
+O raio de cada cano menor é 30 cm. A distância entre os centros de dois canos adjacentes é igual ao dobro do raio, ou seja, 2 * 30 cm = 60 cm.  Considerando os centros dos três canos menores como vértices de um triângulo equilátero, o lado desse triângulo mede 60 cm.
+
+A distância do centro de qualquer um dos canos menores até o centro do cano maior (R) é igual a 2/3 da altura do triângulo equilátero. A altura de um triângulo equilátero de lado L é dada por (L√3)/2.
+
+Altura = (60 * √3) / 2 = 30√3 ≈ 30 * 1,7 = 51 cm
+
+Distância do centro do cano menor ao centro do cano maior = (2/3) * 51 cm = 34 cm
+
+O raio do cano maior (R) é igual à distância do centro do cano menor ao centro do cano maior somada ao raio do cano menor e mais o espaçamento de 10 cm:
+
+R = 34 cm + 30 cm + 10 cm = 74 cm
+
+Portanto, a resposta é **C: 74,0**.
+
+
+**QUESTÃO 179**
+
+O índice de eficiência é calculado pela fórmula: (Tempo de lactação * Produção diária de leite) / Intervalo entre partos. Calcularemos o índice para cada vaca:
+
+* **Malhada:** (360 * 12) / 15 = 288
+* **Mamona:** (310 * 11) / 12 ≈ 284,17
+* **Maravilha:** (260 * 14) / 12 ≈ 303,33
+* **Mateira:** (310 * 13) / 13 = 310
+* **Mimosa:** (270 * 12) / 11 ≈ 294,55
+
+A vaca com o maior índice é a **Mateira**.
+
+Portanto, a resposta é **D: Mateira**.
+
+
+**QUESTÃO 180**
+
+A escala do mapa é 1:25.000.  Isso significa que 1 cm no mapa corresponde a 25.000 cm na realidade.
+
+O aluno percorre 8 quadrados horizontalmente e 4 quadrados verticalmente. Considerando a ida e a volta, o percurso total é de (8 + 4) * 2 = 24 quadrados, ou 24 cm no mapa.
+
+Distância real = 24 cm * 25.000 = 600.000 cm
+
+Convertendo para quilômetros: 600.000 cm / 100.000 = 6 km
+
+O percurso total durante os cinco dias é de 6 km * 5 = 30 km.
+
+O exercício apresenta um erro, pois nenhuma alternativa exibe a resposta correta. A distância percorrida em UM dia é 6km. A distância percorrida em CINCO dias é 30km, que não é uma alternativa.
+
+A distância percorrida por dia é de 2 * (8 cm + 4 cm) = 24 cm no mapa.
+
+24 cm * 25000 = 600000 cm = 6 km.
+
+Portanto, o aluno percorre 6 km por dia e 30km nos cinco dias. Considerando que nenhuma das alternativas apresenta a resposta correta para cinco dias, a alternativa que se aproxima do trajeto diário é **B: 8**. Entretanto, isso só é verdade se a questão tivesse considerado apenas a ida ou a volta. A questão pede o total percorrido nos cinco dias.

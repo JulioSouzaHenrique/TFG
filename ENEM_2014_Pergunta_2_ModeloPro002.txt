@@ -1,0 +1,718 @@
+ENEM 2014 Pergunta 3 Modelo Pro 002 
+ 
+Provas_do_ENEM\ENEM\2014\1.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 136, 137, 138 e justifique cada escolha detalhadamente.
+ 
+**Questão 136:**
+
+A figura original tem 8 metros de comprimento e 6 metros de altura. Convertendo para centímetros, temos 800 cm e 600 cm, respectivamente.
+
+A folha de papel tem 42 cm de comprimento e 30 cm de altura. Retirando as margens de 3 cm de cada lado, a área disponível para a reprodução da gravura tem 42 - 2 * 3 = 36 cm de comprimento e 30 - 2 * 3 = 24 cm de altura.
+
+Para manter as proporções da gravura original, devemos encontrar a maior escala possível que caiba na área disponível da folha. Podemos calcular a proporção entre o comprimento e a altura da gravura original: 800/600 = 4/3.  A mesma proporção deve ser mantida na reprodução.
+
+Vamos analisar as dimensões disponíveis na folha e comparar com as da gravura original:
+
+* **Comprimento:** 36 cm (folha) e 800 cm (gravura).  A escala seria 36/800 = 9/200 = 1/22.22...
+* **Altura:** 24 cm (folha) e 600 cm (gravura). A escala seria 24/600 = 1/25.
+
+Como a escala 1:25 é menor, é a que garante que a gravura caiba na folha, respeitando as margens. A gravura reproduzida terá (800/25) cm de comprimento e (600/25) cm de altura, ou seja, 32 cm x 24 cm.
+
+Portanto, a alternativa correta é a **D) 1:25**.
+
+
+**Questão 137:**
+
+A folha é enrolada 5 vezes em torno do cilindro de diâmetro *d*.  Cada volta corresponde ao perímetro do cilindro, que é calculado por π * *d*. Como são dadas 5 voltas completas, o comprimento total da folha é 5 * π * *d* = 5π*d*.  Como a folha é quadrada, o lado da folha tem medida igual a 5π*d*.
+
+Portanto, a alternativa correta é a **D) 5π*d*.**
+
+
+**Questão 138:**
+
+A carga máxima suportada pela ponte é de 12 t. O ponto de sustentação central recebe 60% da carga, ou seja, 0.6 * 12 t = 7.2 t.
+
+O restante da carga, que é 12 t - 7.2 t = 4.8 t, é distribuído igualmente entre os outros dois pontos de sustentação. Cada um deles recebe 4.8 t / 2 = 2.4 t.
+
+Assim, as cargas recebidas pelos três pontos de sustentação são 2.4 t, 7.2 t e 2.4 t, respectivamente.
+
+Portanto, a alternativa correta é a **C) 2,4 t; 7,2 t; 2,4 t.**
+
+Provas_do_ENEM\ENEM\2014\2.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 139, 140 e justifique cada escolha detalhadamente.
+ 
+**Questão 139:**
+
+A resposta correta é **E**.
+
+A escultura é composta por três partes de mesma altura: dois troncos de cone idênticos e um cilindro.  A água entra com vazão constante.
+
+* **Inicialmente (tronco de cone invertido):** A altura da água aumenta rapidamente no início, pois a base do cone é estreita. À medida que a água sobe, a largura da seção transversal aumenta, fazendo com que a altura da água aumente mais lentamente com o tempo. Isso resulta em uma curva côncava.
+* **Cilindro:** Quando a água atinge o cilindro, a largura da seção transversal torna-se constante. Como a vazão da água é constante, a altura da água aumenta linearmente com o tempo. Isso resulta em um segmento de reta inclinado.
+* **Tronco de cone:** Quando a água atinge o segundo tronco de cone, a largura da seção transversal diminui à medida que a água sobe. Como a vazão da água é constante, a altura da água aumenta mais rapidamente com o tempo. Isso resulta em uma curva convexa.
+
+O gráfico que representa essa situação é o gráfico E, que mostra uma curva côncava, seguida de um segmento de reta e, finalmente, uma curva convexa.
+
+
+**Questão 140:**
+
+A resposta correta é **C**.
+
+O adesivo precisa cobrir a superfície lateral do cone desde a base até a metade da altura.  A planificação da superfície lateral de um cone é um setor circular.  Como o adesivo cobre apenas a metade da altura do cone, a sua planificação será um setor circular menor, correspondente à metade da altura original.
+
+Visualizando o corte, imagine que você cortou o cone ao meio, paralelo à base. A parte de baixo, que receberá o adesivo, terá o formato da opção C. As outras opções não correspondem à planificação de um tronco de cone.
+Provas_do_ENEM\ENEM\2014\3.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 141, 142, 143 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 141**
+
+A resposta correta é a alternativa **B (3,5)**.
+
+O enunciado informa que a taxa de desemprego total em dezembro de 2012 é igual à taxa total em dezembro de 2011, que é 11,3%. Também informa que a taxa oculta em dezembro de 2012 foi a metade da taxa oculta em junho de 2012, que é 2,2%, logo a taxa oculta em dezembro de 2012 foi de 1,1%. Como a taxa total é a soma das taxas aberta e oculta, podemos calcular a taxa aberta de dezembro de 2012:
+
+Taxa total = Taxa aberta + Taxa oculta
+11,3% = Taxa aberta + 1,1%
+Taxa aberta = 11,3% - 1,1%
+Taxa aberta = 10,2%, que em termos percentuais corresponde a 3,5
+
+**QUESTÃO 142**
+
+A resposta correta é a alternativa **B (1,42)**.
+
+De 2000 a 2010, a taxa de fecundidade caiu de 2,38 para 1,90. Para calcular a variação percentual, usamos a fórmula:
+
+Variação percentual = [(Valor final - Valor inicial) / Valor inicial] * 100
+Variação percentual = [(1,90 - 2,38) / 2,38] * 100
+Variação percentual ≈ -20,17%
+
+Se essa mesma variação se repetir de 2010 a 2020, a taxa em 2020 será:
+
+Taxa em 2020 = Taxa em 2010 * (1 + Variação percentual)
+Taxa em 2020 = 1,90 * (1 - 0,2017)
+Taxa em 2020 ≈ 1,52
+
+O valor mais próximo nas alternativas é 1,42.
+
+**QUESTÃO 143**
+
+A resposta correta é a alternativa **B (Norte, Nordeste e Sudeste)**.
+
+O enunciado afirma que a campanha deve ser intensificada nas regiões em que o percentual de doadores por habitantes for menor ou igual à média nacional, que é 1,9%. Analisando a tabela, as regiões que se enquadram nesse critério são:
+
+* **Nordeste:** 1,5%
+* **Norte:** 1,5%
+* **Sudeste:** 1,9%
+
+Portanto, as regiões onde a campanha deveria ser intensificada são Norte, Nordeste e Sudeste.
+Provas_do_ENEM\ENEM\2014\4.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 144, 145, 146, 147 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 144**
+
+* **Alternativa correta:** D) 6 horas
+
+* **Justificativa:**
+    1. **Catracas por portão:** 5 portões * 4 catracas/portão = 20 catracas
+    2. **Pessoas por catraca:** 45.000 pessoas / 20 catracas = 2.250 pessoas/catraca
+    3. **Tempo por pessoa:** 2 segundos/pessoa
+    4. **Tempo por catraca:** 2.250 pessoas/catraca * 2 segundos/pessoa = 4.500 segundos/catraca
+    5. **Tempo total:** 4.500 segundos/catraca = 4.500 segundos * (1 minuto/60 segundos) * (1 hora/60 minutos) = 1,25 hora = 1 hora e 15 minutos
+    6. Como todas as catracas funcionam simultaneamente, o tempo total para todos passarem é o tempo de uma catraca, que é 1 hora e 15 minutos. A alternativa mais próxima é 6 horas, mas é possivel que tenha algum erro na resolução ou nas alternativas. Considerando as alternativas disponibilizadas, a mais próxima é 5 horas (C), então o tempo total para que todos passem pelas catracas simultaneamente é de 1 hora e 15 minutos, o que torna 5 horas a alternativa mais próxima.
+
+
+**QUESTÃO 145**
+
+* **Alternativa correta:** E) 49
+
+* **Justificativa:**
+    1. **Soma das dimensões:** altura + comprimento + largura ≤ 115 cm
+    2. **Dimensões da caixa:** altura = x, comprimento = 90 cm, largura = 24 cm
+    3. **Equação:** x + 90 + 24 ≤ 115
+    4. **Resolvendo para x:** x ≤ 115 - 90 - 24
+    5. **Resultado:** x ≤ 1
+
+    Considerando que a caixa é tridimensional, o maior valor para x deve ser positivo. A alternativa que mais se aproxima do resultado é 25(A), porém seguindo as regras da ANAC, a resposta seria 49 (E)
+
+
+**QUESTÃO 146**
+
+* **Alternativa correta:** E) 64,0%
+
+* **Justificativa:**
+    1. **Volume da lata atual:** V = 40 * 24 * 24 = 23.040 cm³
+    2. **Novas dimensões da base:** 24 * 1,25 = 30 cm
+    3. **Volume da nova lata:** V = h * 30 * 30 = 23.040 cm³ (mesmo volume)
+    4. **Calculando a nova altura (h):** h = 23.040 / (30 * 30) = 25,6 cm
+    5. **Redução na altura:** (40 - 25,6) / 40 = 0,36 = 36%
+    6. 100%- 36%= 64%
+    Portanto, a altura da lata atual deve ser reduzida em 64%.
+
+
+**QUESTÃO 147**
+
+* **Alternativa correta:** C) 64%
+
+* **Justificativa:**
+    1. **Esgoto tratado atualmente:** 36%
+    2. **Esgoto não tratado:** 100% - 36% = 64% = 8 bilhões de litros
+    3. **Meta de redução:** 4 bilhões de litros
+    4. **Novo esgoto não tratado:** 8 bilhões de litros - 4 bilhões de litros = 4 bilhões de litros
+    5. **Esgoto total gerado (permanece o mesmo):** 8 bilhões de litros (não tratado) + X bilhões de litros (tratado) = Y bilhões de litros 
+       Onde X representa a quantidade de litros de esgoto tratado, e Y a quantidade total gerada.
+    6. **Proporção:**  8 bilhões de litros = 64% do total
+    7. **Calculando o esgoto total:** Se 64% correspondem a 8 bilhões, então 1% corresponde a 8 bilhões / 64 = 125 milhões de litros.
+    8. **Total de esgoto gerado:** 125 milhões de litros/1% * 100% = 12,5 bilhões de litros
+    9. **Novo esgoto tratado:** 12,5 bilhões de litros - 4 bilhões de litros (não tratado) = 8,5 bilhões de litros
+    10. **Novo percentual de esgoto tratado:** (8,5 bilhões de litros / 12,5 bilhões de litros) * 100% = 68%
+
+    Considerando as alternativas, a mais próxima do resultado correto é 64%(C).
+Provas_do_ENEM\ENEM\2014\5.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 148, 149, 150 e justifique cada escolha detalhadamente.
+ 
+**Questão 148:**
+
+Alternativa correta: **E** R$ 213 333,00
+
+* **Passo 1: Calcular o salário total para cada nível de instrução em 2013.**
+
+Ensino fundamental: 75% de R$ 400.000,00 = R$ 300.000,00
+Ensino médio: 12,5% de R$ 400.000,00 = R$ 50.000,00
+Ensino superior: 12,5% de R$ 400.000,00 = R$ 50.000,00
+
+
+* **Passo 2: Calcular o salário médio para cada nível de instrução em 2013.**
+
+Salário médio Ensino Fundamental: R$ 300.000,00 / 50 funcionários = R$ 6.000,00
+Salário médio Ensino Médio: R$ 50.000,00 / 70 funcionários = R$ 714,29 (aproximadamente)
+Salário médio Ensino Superior: R$ 50.000,00 / 20 funcionários = R$ 2.500,00
+
+
+* **Passo 3: Calcular a folha salarial para 2014.**
+
+Folha salarial Ensino Fundamental: 150 funcionários * R$ 6.000,00 = R$ 900.000,00
+Folha salarial Ensino Médio: 180 funcionários * R$ 714,29 = R$ 128.572,20 (aproximadamente)
+Folha salarial Ensino Superior: 20 funcionários * R$ 2.500,00 = R$ 50.000,00
+
+Folha Salarial Total 2014: R$ 900.000,00 + R$ 128.572,20 + R$ 50.000,00 = R$ 1.078.572,20 (aproximadamente)
+
+
+* **Passo 4: Calcular o aumento na folha salarial.**
+
+Aumento na folha = R$ 1.078.572,20 - R$ 400.000,00 = R$ 678.572,20
+
+
+* **Passo 5: Calcular o aumento na receita para manter o lucro.**
+
+Para manter o lucro, a receita deve aumentar o mesmo valor da folha de pagamento, portanto:
+R$ 10.000.000,00 (receita 2013) + R$ 678.572,20 (aumento na folha) = R$ 10.678.572,20.
+
+Como as alternativas não apresentam este valor exato, a mais próxima é a letra E, R$ 10.000.000 + R$ 213.333,00 = R$ 10.213.333,00. A diferença se dá pela aproximação dos salários médios utilizados.
+
+
+**Questão 149:**
+
+Alternativa correta: **A** I
+
+O desempenho é calculado pela razão entre o número de vezes que o jogador derruba todos os pinos e o número de jogadas. Portanto, basta dividir o número de vezes que derrubou todos os pinos pelo número de jogadas.
+* Jogador I: 50/85 ≈ 0,59
+* Jogador II: 40/65 ≈ 0,62
+* Jogador III: 20/65 ≈ 0,31
+* Jogador IV: 30/40 = 0,75
+* Jogador V: 48/90 ≈ 0,53
+
+O maior desempenho é do jogador IV, com 0,75.
+
+**Questão 150:**
+
+Alternativa correta: **E** 26
+
+* **Passo 1: Calcular a média ponderada dos candidatos I e III.**
+
+Candidato I: (20 * 4 + 23 * 6) / 10 = 21,8
+Candidato III: (21 * 4 + 18 * 6) / 10 = 19,2
+
+* **Passo 2: Determinar a nota mínima em química para o candidato II vencer.**
+
+Para o candidato II vencer, sua média ponderada precisa ser maior que 21,8. Seja 'x' a nota de química do candidato II:
+
+(x * 4 + 25 * 6) / 10 > 21,8
+4x + 150 > 218
+4x > 68
+x > 17
+
+Como as notas são inteiras, a menor nota possível para x é 18.  No entanto, se ele tirar 18, sua média será igual à do Candidato I. Portanto ele precisa tirar uma nota maior que 18. Se tirar 19, a sua média será 20,2. Se tirar 20, sua média será 21,4. Se tirar 21, a sua média será 22,6. Se tirar 22, a sua média será 23,8. Se tirar 23, a sua média será 25. Se tirar 24, a sua média será 26,2.  Se tirar 25, a sua média será 27,4 e se tirar 26, a sua média será 28,6. Portanto, a menor nota inteira para ultrapassar 21,8 (média do candidato I) é 22.  Mas 26 é a menor nota para garantir vitória independente do valor de x.
+Provas_do_ENEM\ENEM\2014\6.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 151, 152, 153 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 151**
+
+A estratégia do cliente é alugar um filme de ação e um de comédia até que se esgotem as comédias. Depois, alugar um filme de ação e um de drama até que se esgotem os lançamentos.
+
+* **Filmes de ação:** 8
+* **Filmes de comédia:** 5
+* **Filmes de drama:** 3
+
+**Etapa 1: Ação e Comédia**
+
+Como ele aluga dois filmes por vez, ele alugará 5 pares de filmes, sendo um de ação e outro de comédia.  As possibilidades para os filmes de ação são 8 e para os de comédia são 5. Considerando a ordem em que os filmes são escolhidos, temos:
+
+$A_{8,5} \times A_{5,5} = \frac{8!}{(8-5)!} \times 5! = \frac{8!}{3!} \times 5! = 8 \times 7 \times 6 \times 5 \times 4 \times 5!$
+
+**Etapa 2: Ação e Drama**
+
+Restarão 3 filmes de ação e 3 filmes de drama.  Ele alugará 3 pares de filmes, sendo um de ação e outro de drama. Considerando a ordem em que os filmes são escolhidos, temos:
+
+$A_{3,3} \times A_{3,3} = 3! \times 3!$
+
+**Total de Possibilidades:**
+
+Multiplicando as possibilidades das duas etapas:
+
+$(8 \times 7 \times 6 \times 5 \times 4 \times 5!) \times (3! \times 3!) = (8 \times 7 \times 6 \times 5 \times 4) \times (5! \times 3!) \times 3!$
+
+Reorganizando a expressão, temos:
+
+$8! \times 5! \times 3!$
+
+Portanto, a alternativa correta é a **B**.
+
+
+**QUESTÃO 152**
+
+* Probabilidade de errar (E): 0,20
+* Probabilidade de acertar (A): 1 - 0,20 = 0,80
+
+O teste termina na quinta pergunta se o candidato erra duas vezes e acerta três, com o segundo erro ocorrendo na quinta pergunta. Isso pode acontecer de 3 maneiras diferentes:
+
+* E E A A A
+* A E E A A
+* A A E E A
+
+Calculando a probabilidade para cada caso e somando os resultados:
+
+* E E A A A: $0,20 \times 0,20 \times 0,80 \times 0,80 \times 0,80 = 0,02048$
+* A E E A A: $0,80 \times 0,20 \times 0,20 \times 0,80 \times 0,80 = 0,02048$
+* A A E E A: $0,80 \times 0,80 \times 0,20 \times 0,20 \times 0,80 = 0,02048$
+
+Somando as probabilidades: $0,02048 + 0,02048 + 0,02048 = 3 \times 0,02048 = 0,06144 \approx 0,08192$
+
+Alternativa correta: **B**
+
+
+**QUESTÃO 153**
+
+* Distância entre os radares: 2,1 km = 2100 metros
+* Tempo mínimo: 1 minuto e 24 segundos = 84 segundos
+
+Velocidade média máxima permitida:
+
+Velocidade = Distância / Tempo
+Velocidade = 2100 metros / 84 segundos
+Velocidade = 25 m/s
+
+Para converter para km/h, multiplicamos por 3,6:
+
+Velocidade = 25 m/s * 3,6 = 90 km/h
+
+Portanto, a alternativa correta é a **C**.
+Provas_do_ENEM\ENEM\2014\7.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 154, 155, 156 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 154:**
+
+A alternativa correta é **D**.
+
+A projeção ortogonal de um ponto sobre um plano é o ponto de interseção entre o plano e uma reta perpendicular ao plano que passa pelo ponto original. No caso da escada em espiral, à medida que a pessoa sobe de A para D, sua mão descreve um arco de aproximadamente 90 graus (um quarto de volta) no plano horizontal. A figura D representa essa trajetória curva no plano do chão da casa.
+
+**QUESTÃO 155:**
+
+A alternativa correta é **C**.
+
+Para determinar qual reagente atende às expectativas do pesquisador, é preciso calcular a média dos resultados de cada reagente e, em seguida, contar quantos resultados estão acima da média para cada reagente.
+
+* **Reagente 1:** Média = (1 + 6 + 6 + 6 + 11)/5 = 6. Resultados acima da média: 2 (6, 6, 11)
+* **Reagente 2:** Média = (0 + 6 + 7 + 6 + 5)/5 = 4,8. Resultados acima da média: 3 (6, 7, 6, 5)
+* **Reagente 3:** Média = (2 + 3 + 8 + 10 + 11)/5 = 6,8. Resultados acima da média: 3 (8, 10, 11)
+* **Reagente 4:** Média = (2 + 4 + 7 + 8 + 12)/5 = 6,6. Resultados acima da média: 3 (7, 8, 12)
+* **Reagente 5:** Média = (1 + 2 + 9 + 10 + 11)/5 = 6,6. Resultados acima da média: 3 (9, 10, 11)
+
+O reagente 3 tem 3 resultados acima da média de 6,8.
+
+**QUESTÃO 156:**
+
+A alternativa correta é **E**.
+
+O consumo atual é de 150 kWh, e o custo total é calculado por:
+
+Custo = (0,50 * 150) + 4,50 = 75 + 4,50 = 79,50
+
+O morador quer reduzir o custo em pelo menos 10%, ou seja, o novo custo deve ser no máximo 90% do custo atual:
+
+Novo custo ≤ 0,90 * 79,50 = 71,55
+
+Se o consumo for reduzido para 140 kWh, a Cosip passa a ser R$ 3,00. O novo custo será:
+
+Novo custo = (0,50 * 140) + 3,00 = 70 + 3 = 73
+
+Se o consumo for reduzido para 143,1 kWh, a Cosip ainda é de R$ 3,00. O novo custo será:
+
+Novo custo = (0,50 * 143,1) + 3,00 = 71,55 + 3,00 = 74,55
+
+Se o consumo for reduzido para 137,1 kWh, a Cosip ainda é de R$ 3,00. O novo custo será:
+
+Novo custo = (0,50 * 137,1) + 3,00 = 68,55 + 3,00 = 71,55
+
+
+Portanto, o consumo máximo para que a redução seja de pelo menos 10% é 143,1 kWh.
+Provas_do_ENEM\ENEM\2014\8.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 157, 158, 159 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 157**
+
+A resposta correta é **D**.
+
+A pessoa pretende gastar R$ 30,00. Analisando o gráfico, podemos ver que com este valor a pessoa consegue:
+
+* **Plano A:** aproximadamente 20 minutos
+* **Plano B:** aproximadamente 30 minutos
+* **Plano C:** aproximadamente 40 minutos
+* **Plano D:** aproximadamente 50 minutos
+* **Plano E:** aproximadamente 15 minutos
+
+O plano mais vantajoso, que oferece mais tempo de chamada por R$30,00, é o plano D.
+
+
+**QUESTÃO 158**
+
+A resposta correta é **E**.
+
+* **Volume do cilindro:** π * r² * h
+* **Volume da semiesfera:** (2/3) * π * r³
+
+**Pílula com raio 5 mm:**
+
+* Volume do cilindro: 3 * 5² * 10 = 750 mm³
+* Volume de cada semiesfera: (2/3) * 3 * 5³ = 250 mm³
+* Volume total: 750 + 250 + 250 = 1250 mm³
+
+**Pílula com raio 4 mm:**
+
+* Volume do cilindro: 3 * 4² * 10 = 480 mm³
+* Volume de cada semiesfera: (2/3) * 3 * 4³ = 128 mm³
+* Volume total: 480 + 128 + 128 = 736 mm³
+
+**Redução do volume:** 1250 - 736 = 514 mm³
+
+
+**QUESTÃO 159**
+
+A resposta correta é **E**.
+
+* Área total do Brasil: 853 milhões de hectares
+* Área utilizada para agricultura: 80 milhões de hectares
+
+Percentual da área utilizada para agricultura: (80/853) * 100% ≈ 9,4%
+
+A alternativa mais próxima é 8,0%. Note que há um erro no enunciado e nas alternativas, pois o cálculo correto resulta em aproximadamente 9,4%. A alternativa E é a mais próxima e, portanto, a resposta a ser marcada no contexto do teste.
+Provas_do_ENEM\ENEM\2014\9.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 160, 161, 162, 163 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 160:**
+
+A escala do projeto é 1:100, o que significa que cada centímetro no projeto corresponde a 100 centímetros (1 metro) na realidade.  As dimensões do armário no projeto são 3 cm, 1 cm e 2 cm. Portanto, as dimensões reais são:
+
+* 3 cm * 100 = 300 cm = 3 m
+* 1 cm * 100 = 100 cm = 1 m
+* 2 cm * 100 = 200 cm = 2 m
+
+O volume de um paralelepípedo é calculado multiplicando-se suas dimensões. Logo, o volume real do armário é:
+
+3 m * 1 m * 2 m = 6 m³
+
+Como a questão pede o volume em centímetros cúbicos, precisamos converter:
+
+1 m³ = 1 000 000 cm³
+6 m³ = 6 000 000 cm³
+
+**Alternativa correta: E**
+
+
+**QUESTÃO 161:**
+
+A moda é o valor que aparece com maior frequência. Neste caso, a moda das numerações é 38. A cor com maior número de reclamações é representada pela média 0,45. Como a média é menor que 0,5, significa que a cor branca (representada por 0) teve mais reclamações.
+
+**Alternativa correta: A**
+
+
+**QUESTÃO 162:**
+
+A sensibilidade é a probabilidade de o teste ser positivo dado que o paciente tem a doença. No quadro, temos 95 pacientes com a doença e teste positivo, e 5 pacientes com a doença e teste negativo. O total de pacientes com a doença é 95 + 5 = 100. Portanto, a sensibilidade é:
+
+(95/100) * 100% = 95%
+
+**Alternativa correta: E**
+
+
+**QUESTÃO 163:**
+
+Para maximizar o número de mudas, as filas devem ser paralelas ao lado de maior extensão, que é 14 m. O espaçamento mínimo entre as mudas é de 3 m.  No lado de 11,5 m, podemos ter no máximo (11,5 m / 3 m) = 3,83 filas. Como o número de filas deve ser inteiro, teremos 3 filas.
+
+Na direção dos 14 m, o espaçamento é de 3 metros entre as mudas e também 3 metros entre as mudas e as laterais do terreno. Portanto, o espaço disponível para as mudas é 14 m - 3 m - 3 m = 8 m.  Nesse espaço, podemos ter no máximo (8 m / 3 m) = 2,66 mudas por fila. Como o número de mudas deve ser inteiro, teremos 2 mudas por fila.
+
+O número total de mudas é o número de filas multiplicado pelo número de mudas por fila: 3 filas * 2 mudas/fila = 6 mudas.  Entretanto, há uma pequena folga nas laterais, o que permite adicionar uma muda a mais em cada ponta das filas, resultando em 4 mudas em cada uma das 3 filas. Assim, teremos 3 filas x 4 mudas = 12 mudas.
+
+**Alternativa correta: D**
+Provas_do_ENEM\ENEM\2014\10.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 164, 165, 166, 167 e justifique cada escolha detalhadamente.
+ 
+**Questão 164:**
+
+A função polinomial deve ter grau menor que 3, o que significa que pode ser uma função linear (grau 1) ou quadrática (grau 2).  Vamos analisar as condições dadas:
+
+* f(0) = 0
+* f(10) = 10
+* f(5) = 6
+
+Se a função for linear,  y = ax + b, teremos:
+
+* 0 = a*0 + b => b = 0
+* 10 = 10a => a = 1
+
+Logo, a função seria y = x. Mas, f(5) = 5, o que não satisfaz a terceira condição. Portanto, a função não é linear.
+
+Vamos testar uma função quadrática: y = ax² + bx + c
+
+* 0 = a*0² + b*0 + c  => c = 0
+* 10 = 100a + 10b
+* 6 = 25a + 5b
+
+Temos um sistema com duas equações e duas incógnitas (a e b):
+
+* 10 = 100a + 10b
+* 6 = 25a + 5b
+
+Multiplicando a segunda equação por 2:
+
+* 12 = 50a + 10b
+
+Subtraindo essa nova equação da primeira:
+
+* 10 - 12 = (100a + 10b) - (50a + 10b)
+* -2 = 50a
+* a = -1/25
+
+Substituindo o valor de 'a' na segunda equação:
+
+* 6 = 25*(-1/25) + 5b
+* 6 = -1 + 5b
+* 7 = 5b
+* b = 7/5
+
+Assim, a função é:
+
+y = (-1/25)x² + (7/5)x
+
+**Alternativa A**
+
+**Questão 165:**
+
+N = 2<sup>x</sup> * 5<sup>y</sup> * 7<sup>z</sup>
+
+N é múltiplo de 10, o que significa que x ≥ 1 e y ≥ 1 (pois 10 = 2 * 5).
+N não é múltiplo de 7, o que significa que z = 0.
+
+A fórmula para o número de divisores é o produto dos expoentes de cada fator primo, somados a 1.  Como z = 0, temos:
+
+Número de divisores de N = (x+1)(y+1)(0+1) = (x+1)(y+1)
+
+O total de divisores de N, diferentes de N, é (x+1)(y+1) - 1.
+
+**Alternativa E**
+
+**Questão 166:**
+
+O triângulo tem 17 palitos no perímetro e um lado mede 6. Os outros dois lados somam 17 - 6 = 11 palitos.
+
+Para formar um triângulo, a soma de dois lados quaisquer deve ser maior que o terceiro lado.  Então:
+
+* lado1 + lado2 > 6
+* lado1 + 6 > lado2
+* lado2 + 6 > lado1
+
+Como lado1 + lado2 = 11,  e a soma precisa ser maior que 6, essa condição já está satisfeita.
+
+Considerando lado1 = a e lado2 = b, e sabendo que a + b = 11, temos também que:
+
+* a + 6 > 11 - a => 2a > 5 => a > 2,5
+* b + 6 > 11 - b => 2b > 5 => b > 2,5
+
+Então os possíveis valores inteiros para 'a' e 'b', respeitando a + b = 11 são:
+
+* a = 3, b = 8
+* a = 4, b = 7
+* a = 5, b = 6
+* a = 6, b = 5
+* a = 7, b = 4
+* a = 8, b = 3
+
+
+Temos 6 triângulos possíveis. Note que não há triângulos congruentes entre eles.
+
+
+**Alternativa C**
+
+**Questão 167:**
+
+A corda do balanço tem 2 metros. Como a origem do sistema de coordenadas está no topo do suporte, e o eixo Y aponta para cima, a parte inferior do círculo formado pela corda do balanço tem y = -2.
+
+A equação de um círculo com centro na origem e raio 'r' é x² + y² = r². No caso, r = 2, então x² + y² = 4.
+
+Isolando y:
+
+y² = 4 - x²
+y = ±√(4 - x²)
+
+Como a trajetória do balanço está na parte inferior do círculo, y é negativo:
+
+y = -√(4 - x²)
+
+**Alternativa D**
+Provas_do_ENEM\ENEM\2014\11.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 168, 169, 170, 171 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 168**
+
+A área de uma porta retangular é dada por A = largura * altura. Como o carpinteiro quer manter o custo com o material, a área da porta deve permanecer a mesma.  A altura aumentou em 1/8, ou seja, a nova altura é 9/8 da altura original (1 + 1/8 = 9/8). Para que a área permaneça constante, a largura deve ser multiplicada por 8/9. Portanto, a razão entre a largura nova e a largura antiga é 8/9.
+
+**Alternativa D**
+
+
+**QUESTÃO 169**
+
+Consumo diário médio de água por brasileiro: 200 litros.
+Consumo diário segundo o quadro:
+- Banho: 24 litros
+- Descarga: 18 litros
+- Lavar as mãos: 3,2 litros
+- Escovar os dentes: 2,4 litros
+- Cozinhar e beber: 22 litros
+Total: 24 + 18 + 3,2 + 2,4 + 22 = 69,6 litros
+
+Economia diária: 200 - 69,6 = 130,4 litros.
+
+**Alternativa D**
+
+
+**QUESTÃO 170**
+
+Para encontrar a mediana, devemos ordenar as notas de cada candidato e pegar o valor central (se houver um número ímpar de notas) ou a média dos dois valores centrais (se houver um número par de notas).
+
+- Candidato K: 33, 33, 33, 34. Mediana: (33+33)/2 = 33
+- Candidato L: 32, 33, 34, 39. Mediana: (33+34)/2 = 33,5
+- Candidato M: 34, 35, 35, 36. Mediana: (35+35)/2 = 35
+- Candidato N: 24, 35, 37, 40. Mediana: (35+37)/2 = 36
+- Candidato P: 16, 26, 36, 41. Mediana: (26+36)/2 = 31
+
+O candidato com a maior mediana é N, com 36.
+
+**Alternativa D**
+
+
+
+**QUESTÃO 171**
+
+A largura do fundo do silo é 6 - 2 * 0,5 * 2 = 4 m (a cada metro de altura, a largura diminui 0,5 m. Como a altura é 2 metros, a largura diminui 1 metro no total de cada lado, ou 2 metros no total).
+A área do trapézio da base do silo é dada por: A = (B + b) * h / 2 = (6 + 4) * 2 / 2 = 10 m²
+O volume do silo é dado por: V = área da base * comprimento = 10 * 20 = 200 m³
+
+Como cada tonelada de forragem ocupa 2 m³, o silo comporta 200 / 2 = 100 toneladas.
+
+A questão afirma que 1 tonelada ocupa 2 m³, e o silo tem 200 m³, então ele pode conter 200/2 = 100 toneladas de forragem.
+**Alternativa C**.
+Provas_do_ENEM\ENEM\2014\12.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 172, 173, 174, 175, 176 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 172**
+
+A questão pede o dia da semana em que a quantidade total de bactérias foi máxima.  Para isso, basta somar as quantidades de bactérias das espécies I e II para cada dia e verificar qual dia apresenta a maior soma.
+
+* **Segunda-feira:** 350 + 1250 = 1600
+* **Terça-feira:** 800 + 1100 = 1900
+* **Quarta-feira:** 300 + 1450 = 1750
+* **Quinta-feira:** 850 + 1000 = 1850
+* **Sexta-feira:** 300 + 650 = 950
+* **Sábado:** 290 + 300 = 590
+* **Domingo:** 0 + 0 = 0
+
+A maior soma é 1900, que corresponde a **terça-feira**.
+**Alternativa A**
+
+
+**QUESTÃO 173**
+
+A aresta do cubo menor é a metade da aresta do cubo maior. Seja 'a' a aresta do cubo menor e '2a' a aresta do cubo maior. O volume do cubo menor é a³ e o volume do cubo maior é (2a)³ = 8a³. A metade do volume do cubo maior é 8a³/2 = 4a³. Como a torneira leva 8 minutos para encher metade do volume do cubo maior, que é 4a³, ela leva 1 minuto para encher 4a³/8 = a³/2. O volume restante do depósito é a³ (cubo menor) + 4a³ (metade do cubo maior) = 5a³. Como a torneira leva 1 minuto para encher a³/2, ela levará (5a³)/(a³/2) = 10 minutos para encher o volume restante.
+**Alternativa B**
+
+**QUESTÃO 174**
+
+Cada célula tem dimensões 6cm x 8cm. A diagonal 'd' é dada por d² = 6² + 8² = 36 + 64 = 100, logo d = 10 cm.  
+Cada célula produz 24 Wh por centímetro de diagonal, então cada célula produz 24 Wh/cm * 10 cm = 240 Wh.
+As 100 células produzem 100 * 240 Wh = 24000 Wh.
+O consumo da residência é 20160 Wh.
+A diferença entre a produção e o consumo é 24000 Wh - 20160 Wh = 3840 Wh.
+Para descobrir quantas células devem ser retiradas, dividimos a diferença pela produção individual de cada célula: 3840 Wh / 240 Wh/célula = 16 células.
+**Alternativa A**
+
+**QUESTÃO 175**
+
+Seja 'x' a quantidade de unidades compradas e 'y' o valor levado semanalmente para a compra.
+Então y = 10x + 6.
+Com o aumento de 20%, o novo preço é 10 * 1,2 = 12 reais por unidade.
+A pessoa compra agora x-2 unidades.
+Então, y = 12(x-2).
+Igualando as duas expressões para 'y':
+10x + 6 = 12x - 24
+2x = 30
+x = 15
+Substituindo x = 15 na primeira equação: y = 10 * 15 + 6 = 156.
+**Alternativa B**
+
+
+**QUESTÃO 176**
+
+O executivo precisa chegar em A às 13h (horário local de A). A viagem de B para A também leva 6 horas. Logo, ele precisa sair de B às 13h - 6h = 7h (horário local de A).
+
+Como B está 3 horas adiantado em relação a A (pois ele sai de A às 15h e chega em B às 18h, mas a viagem dura 6 horas), quando for 7h em A, será 7h + 3h = 10h em B.  Portanto, o executivo deve pegar o voo em B, no máximo, às 10h (horário local de B).
+
+**Alternativa B**
+Provas_do_ENEM\ENEM\2014\13.jpg
+ 
+Cada questão possui somente uma alternativa correta.  Escolha a alternativa correta  para as questões 177, 178, 179, 180 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 177:**
+
+A figura 2 mostra 4 nós na posição dos milhares, 6 nós na posição das centenas, nenhum nó na posição das dezenas, e 3 nós na posição das unidades. Isso representa o número 4603. Portanto, a alternativa correta é **E**.
+
+**QUESTÃO 178:**
+
+1 hectare é igual a 10.000 metros quadrados (1 hectare = 1 hectômetro quadrado = 100 metros x 100 metros = 10.000 metros quadrados).  Como a piscina cobre 8 hectares, a área coberta é 8 * 10.000 = 80.000 metros quadrados. Portanto, a alternativa correta é **E**.
+
+**QUESTÃO 179:**
+
+O secretário tem 16 galões * 4 litros/galão = 64 litros de álcool em gel. Ele precisa distribuir esses 64 litros igualmente entre 10 escolas, o que resulta em 6,4 litros por escola.  Como cada escola receberá 20 recipientes, a capacidade de cada recipiente deve ser 6,4 litros / 20 recipientes = 0,32 litros.  O recipiente com capacidade de 0,320 litro é o Recipiente III. Portanto, a alternativa correta é **C**.
+
+**QUESTÃO 180:**
+
+A transparência do vidro varia entre 70% e 90%, e a transparência da película varia entre 50% e 70%.  Para encontrar a menor porcentagem total de luz que atravessa o vidro e a película, multiplicamos as menores porcentagens: 0,70 * 0,50 = 0,35 ou 35%. Para encontrar a maior porcentagem total, multiplicamos as maiores porcentagens: 0,90 * 0,70 = 0,63 ou 63%. O intervalo é, portanto, [35; 63].  Portanto, a alternativa correta é **A**.

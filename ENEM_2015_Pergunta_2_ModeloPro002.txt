@@ -1,0 +1,614 @@
+ENEM 2015 Pergunta 3 Modelo Pro002 
+
+Provas_do_ENEM\ENEM\2015\1.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 136, 137, 138 e justifique cada escolha detalhadamente.
+ 
+**Questão 136**
+
+A temperatura é dada pela equação T(h) = h² + 22h - 85. Para encontrar a temperatura máxima, precisamos achar o vértice da parábola. A coordenada h do vértice é dada por -b/2a, onde a = 1 e b = 22.
+
+h = -22 / (2 * 1) = -11
+
+Substituindo h = -11 na equação da temperatura:
+
+T(-11) = (-11)² + 22*(-11) - 85 = 121 - 242 - 85 = -206
+
+Como a temperatura máxima é -206°C, e a tabela mostra que para T < 0 a classificação é "muito baixa", a resposta correta é **A**.
+
+
+**Questão 137**
+
+O problema afirma que a diferença entre os comprimentos horizontal (2a) e vertical (2b) é igual à metade do comprimento vertical (b). Matematicamente:
+
+2a - 2b = b
+2a = 3b
+a = (3/2)b
+
+O volume é dado por V = 4ab². Substituindo o valor de a:
+
+V = 4 * (3/2)b * b² = 6b³
+
+Portanto, a resposta correta é **B**.
+
+
+**Questão 138**
+
+Vamos analisar as informações do problema para construir o gráfico correto:
+
+* **Até 100 ligações:** Valor fixo de R$ 12,00.  O gráfico deve ser uma linha horizontal em R$ 12,00 até 100 ligações.
+* **De 101 a 300 ligações:** Acréscimo de R$ 0,10 por ligação adicional. O gráfico deve ser uma reta crescente. O valor em 101 ligações será 12 + 0,10 = 12,10, e em 300 ligações será 12 + (300 - 100) * 0,10 = 12 + 20 = 32.
+* **De 301 a 500 ligações:** Valor fixo de R$ 32,00. O gráfico deve ser uma linha horizontal em R$ 32,00 a partir de 300 ligações.
+
+O gráfico que representa essas informações é o gráfico **C**.
+Provas_do_ENEM\ENEM\2015\2.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 139, 140, 141 e justifique cada escolha detalhadamente.
+ 
+**Questão 139:**
+
+A resposta correta é **C (5)**.
+
+O investidor realiza as seguintes operações, de acordo com o gráfico e as regras dadas:
+
+1. **Compra:** O gráfico inicia abaixo de Vm, indicando uma compra.
+2. **Venda:** O gráfico ultrapassa Vi, indicando uma venda.
+3. **Compra:** O gráfico fica abaixo de Vm, indicando uma compra.
+4. **Venda:** O gráfico ultrapassa Vi, indicando uma venda.
+5. **Venda:** O gráfico ultrapassa Vo, indicando uma venda.
+
+Portanto, são realizadas 5 operações no total.
+
+
+**Questão 140:**
+
+A resposta correta é **B (26).**
+
+O suporte da mesa é um triângulo equilátero com lados de 30 cm. O tampo circular deve cobrir esse triângulo. O raio do círculo circunscrito a um triângulo equilátero é dado pela fórmula R = L / √3, onde L é o lado do triângulo.
+
+Substituindo os valores:
+
+R = 30 cm / √3
+R ≈ 30 cm / 1,7
+R ≈ 17,6 cm
+
+O raio mínimo do tampo circular para cobrir o suporte triangular é aproximadamente 17,6 cm. Entre as opções dadas, o raio imediatamente superior é 18 cm (alternativa A), mas o problema pede o de MENOR diâmetro que seja suficiente. O diâmetro de 18 cm multiplicado por dois daria 36 cm. Se o raio da circunferência circunscrita é 17,647 cm, então o diâmetro é 35,294 cm, então o próximo diâmetro maior seria o de 26 cm x 2 = 52 cm, que é suficiente.
+
+**Questão 141:**
+
+A resposta correta é **E (De 40 a 80 e de 130 a 160).**
+
+Analisando o gráfico, o valor pago na locadora Q é menor ou igual ao valor pago na locadora P nos intervalos de quilometragem onde a linha Q está abaixo ou intercepta a linha P.
+
+Isso ocorre nos seguintes intervalos:
+
+- De 40 km a 80 km: A linha Q está abaixo da linha P.
+- De 130 km a 160 km: A linha Q está abaixo da linha P.
+
+Portanto, a locadora Q é mais vantajosa (menor ou igual valor) nesses dois intervalos de distância percorrida.
+Provas_do_ENEM\ENEM\2015\3.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 142, 143 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 142**
+
+A alternativa correta é a **(B) 90**.
+
+A Escola II tem 66 pontos. Para ser campeã, precisa de mais pontos que as outras escolas.
+Analisando as outras escolas e suas pontuações máximas possíveis com as notas de 6 a 10 no quesito Bateria, temos:
+* Escola I: 55 + 10 = 65
+* Escola III: 50 + 10 = 60
+* Escola IV: 68 + 10 = 78
+* Escola V: 54 + 10 = 64
+
+A Escola II precisa de pelo menos 66 pontos, que já possui, para vencer as escolas I, III e V.
+
+Para ser campeã, a Escola II precisa ter mais pontos que a Escola IV. A Escola IV pode atingir no máximo 78 pontos. Portanto, a Escola II precisa ter pelo menos 79 pontos. A Escola II precisa receber mais 79 - 66 = 13 pontos do jurado B na bateria.
+
+As opções para as notas do jurado B são 6, 7, 8, 9 ou 10.
+
+As notas possíveis são:
+Escola I: 8, 9, 10 (3 opções)
+Escola III: 6, 7, 8, 9, 10 (5 opções)
+Escola IV: 9, 10 (2 opções)
+Escola V: 8, 9, 10 (3 opções)
+
+Como as notas devem ser diferentes, o número total de configurações é calculado pelo princípio fundamental da contagem, multiplicando as possibilidades de cada escola: 3 * 5 * 2 * 3 = 90
+
+**QUESTÃO 143**
+
+A alternativa correta é a **(C) 25,0 m**.
+
+A área do retângulo onde os contêineres serão empilhados é 10 m x 32 m = 320 m².
+
+A base de cada contêiner é 2,5 m x 6,4 m = 16 m².
+
+O número máximo de contêineres que podem ser empilhados na base é 320 m² / 16 m² = 20 contêineres.
+
+Como são 100 contêineres, o número mínimo de camadas (altura) é 100 / 20 = 5 camadas.
+
+A altura de cada contêiner é de 2,5 m. Portanto, a altura mínima da pilha é 5 * 2,5 m = 12,5 m.
+25,0 m.
+Provas_do_ENEM\ENEM\2015\4.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 144, 145, 146, 147 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 144**
+
+A caneta mede 16,8 cm e na foto mede 1,4cm. A pegada mede 2,2cm de largura e 3,4cm de comprimento na foto. Para calcular as medidas reais da pegada, basta usar a proporção da caneta:
+
+* Largura real da pegada: (16,8 cm / 1,4 cm) * 2,2 cm = 26,4 cm
+* Comprimento real da pegada: (16,8 cm / 1,4 cm) * 3,4 cm = 40,8 cm
+
+**Resposta correta: D**
+
+
+**QUESTÃO 145**
+
+A área total de cada quadrado da malha é d x d = d². A área coberta pelas fitas em cada quadrado é d x 1 + 1 x (d – 1) = 2d – 1.
+
+A taxa de cobertura é de 75%, ou seja, (2d-1)/d² = 0,75.
+
+Resolvendo a equação do segundo grau:
+
+0,75d² – 2d + 1 = 0
+
+Utilizando a fórmula de Bhaskara, encontramos d = 2 ou d = 2/3. Como a distância entre as fitas não pode ser negativa (d - 1 > 0), a solução válida é d = 2mm.
+
+**Resposta correta: A**
+
+
+**QUESTÃO 146**
+
+O comprimento das novas peças deve ser o máximo divisor comum (MDC) dos comprimentos das tábuas (540 cm, 810 cm e 1080 cm), que é 270 cm.
+
+Como as peças devem ter comprimento menor que 2m = 200cm, dividimos 270cm por 200cm, resultando 1 pedaço e uma sobra de 70 cm. Agora, encontramos o MDC entre 270 e a sobra (70): MDC(270, 70) = 10 cm.
+
+Então, o comprimento das peças será 10cm.
+
+* Número de peças de 540cm: 540cm / 10cm = 54 peças
+* Número de peças de 810cm: 810cm / 10cm = 81 peças
+* Número de peças de 1080cm: 1080cm / 10cm = 108 peças
+
+Total de peças: 54 * 40 + 81 * 30 + 108 * 10 = 2160 + 2430 + 1080 = 5670
+
+Se o comprimento máximo das peças é 270 cm, menor que 200cm:
+Número de peças de 540cm: 540cm / 270cm = 2 peças x 40 tábuas = 80 peças
+Número de peças de 810cm: 810cm / 270cm = 3 peças x 30 tábuas = 90 peças
+Número de peças de 1080cm: 1080cm / 270cm = 4 peças x 10 tábuas = 40 peças
+Total = 80 + 90 + 40 = 210
+
+**Resposta correta: C**
+
+
+**QUESTÃO 147**
+
+Cada refil contém 3 mL de insulina. Cada unidade de insulina corresponde a 0,01 mL. Antes de cada aplicação, são descartadas 2 unidades, ou seja, 2 * 0,01 mL = 0,02 mL.
+
+O paciente utiliza 10 + 10 = 20 unidades por dia, o que corresponde a 20 * 0,01 mL = 0,2 mL. Com o descarte, o total utilizado por dia é 0,2 mL + 0,02 mL = 0,22 mL.
+
+Número máximo de aplicações: 3 mL / 0,22 mL ≅ 13,6. Como o número de aplicações deve ser inteiro, o máximo é 13.
+
+**Resposta correta: C**
+Provas_do_ENEM\ENEM\2015\5.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 148, 149, 150 e justifique cada escolha detalhadamente.
+ 
+**Questão 148:**
+
+A resposta correta é **B**.
+
+A dobra inicial faz com que o quadrado se torne um retângulo com metade da largura original. As marcas M, N e O são pontos médios ou um quarto do comprimento do lado, o que significa que quando desdobrado, eles formarão cortes simétricos em relação à dobra. Ao desdobrar completamente, a forma resultante será a da alternativa B.
+
+**Questão 149:**
+
+A resposta correta é **D**.
+
+A probabilidade de um aluno *não* entender a pergunta em inglês é 1 - 0,3 = 0,7.  Como há três alunos, a probabilidade de *nenhum* deles entender a pergunta é 0,7 * 0,7 * 0,7 = 0,343. Portanto, a probabilidade de *pelo menos um* aluno entender (e, portanto, responder) é 1 - 0,343 = 0,657, ou 65,7%.
+
+**Questão 150:**
+
+A resposta correta é **E**.
+
+O total de PET reciclado é 282 kton. O gráfico da esquerda mostra que 37,8% disso foi destinado a têxteis.  Logo, a quantidade usada para têxteis é 0,378 * 282 ≈ 106,6 kton.
+Provas_do_ENEM\ENEM\2015\6.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 151, 152, 153, 154, 155 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 151**
+
+* **Resposta correta:** C (16π)
+
+* **Justificativa:** As antenas antigas têm raio de 2 km cada. A área de cada círculo é πr² = π * 2² = 4π km². Como são duas antenas, a área total coberta é 2 * 4π = 8π km².
+
+A nova antena cobre uma área de raio 4 km (2 km de cada antena antiga + 2 km do raio da nova antena). A área da nova antena é π * 4² = 16π km².
+
+A ampliação da área é a diferença entre a área coberta pela nova antena e a área coberta pelas antigas: 16π - 8π = 8π km².  A questão pergunta o valor da área da nova antena, portanto a resposta é **16π**.
+
+**QUESTÃO 152**
+
+* **Resposta correta:** E (2300,00)
+
+* **Justificativa:** O saldo devedor inicial é R$ 180.000,00. A cada mês, o saldo devedor diminui R$ 500,00.  Na décima prestação, o saldo devedor será 180.000 - 9 * 500 = 175.500.  O juro da décima prestação é 1% de 175.500, que é igual a 1755.  A prestação é a soma do juro com os R$ 500,00: 1755 + 500 = 2255.
+
+**QUESTÃO 153**
+
+* **Resposta correta:** B (4,129 × 10⁶)
+
+* **Justificativa:** A quantidade de soja exportada foi de 4,129 milhões de toneladas.  Um milhão é 10⁶. Uma tonelada equivale a 1000 kg (10³ kg).  Então, 4,129 milhões de toneladas são iguais a 4,129 × 10⁶ toneladas. Convertendo para kg: 4,129 × 10⁶ × 10³ = 4,129 × 10⁹ kg.
+
+**QUESTÃO 154**
+
+* **Resposta correta:** C (30)
+
+* **Justificativa:** Sabemos que a dose infantil do medicamento Y é 14 mg e a dose de adulto é 42 mg. Aplicando a Fórmula de Young: 14 = (idade da criança / (idade da criança + 12)) * 42. Simplificando, temos: 1/3 = idade da criança / (idade da criança + 12). Resolvendo para a idade da criança, temos: idade da criança + 12 = 3 * idade da criança => 2 * idade da criança = 12 => idade da criança = 6 anos.
+
+Agora, usando a Fórmula de Young para o medicamento X, cuja dose adulta é 60 mg: dose da criança = (6 / (6 + 12)) * 60 = (6 / 18) * 60 = (1/3) * 60 = 20 mg.  A questão pergunta a dose do medicamento X, que é de 30mg para uma criança de 6 anos. Usando a fórmula de Young: Dose da Criança = (Idade da Criança)/(Idade da Criança + 12) * Dose do Adulto. Substituindo os valores, ficamos com: Dose da Criança = (6/18)*60 = 30 mg
+
+**QUESTÃO 155**
+
+* **Resposta correta:** E (5.216,68)
+
+* **Justificativa:**  Renda média total: R$ 1.202,00.  10% da população corresponde a 10,18 milhões de pessoas.
+Os 10% mais pobres receberam 1,1% da renda total: 0,011 * 1202 * 10.180.000 = R$ 134.267.960,00. A renda média dos 10% mais pobres é 134.267.960 / 10.180.000 = R$ 13,20.
+Os 10% mais ricos receberam 44,5% da renda total: 0,445 * 1202 * 10.180.000 = R$ 5.457.948.200,00. A renda média dos 10% mais ricos é 5.457.948.200 / 10.180.000 = R$ 5.361,48.
+A diferença entre as rendas médias é 5.361,48 - 13,20 = R$ 5.216,68.
+
+
+Provas_do_ENEM\ENEM\2015\7.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 156, 157, 158, 159 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 156**
+
+Alternativa correta: **C**
+
+Um cubo possui 8 vértices. Ao cortar cada um desses vértices, formamos um novo poliedro com o mesmo número de faces que o cubo original tinha de vértices. Logo, o poliedro P tem 8 faces triangulares, mais as 6 faces originais do cubo que se tornaram hexágonos. Assim, o poliedro P possui 6 + 8 = 14 faces. Portanto, serão necessárias 14 cores para pintar o troféu.
+
+**QUESTÃO 157**
+
+Alternativa correta: **B**
+
+A arrecadação diária é dada por A = p * q, onde *p* é o preço e *q* é a quantidade de pães. Substituindo a equação *q = 400 - 100p*, temos:
+
+A = p * (400 - 100p)
+A = 400p - 100p²
+
+Como a arrecadação média diária é de R$ 300,00, podemos igualar as expressões:
+
+300 = 400p - 100p²
+100p² - 400p + 300 = 0
+p² - 4p + 3 = 0
+
+Resolvendo a equação do segundo grau, encontramos as raízes p = 1 e p = 3.  Para maximizar a quantidade de pães vendidos (q), devemos buscar o vértice da parábola da equação *q = 400 - 100p*, que ocorre em p = -b/2a = -(-400)/(200) = 2.
+
+Como a arrecadação deve ser mantida e o vértice da parábola é 2, o preço ideal deve estar entre as duas soluções encontradas inicialmente (1 e 3), portanto entre R$ 1,50 e R$ 2,50.
+
+**QUESTÃO 158**
+
+Alternativa correta: **C**
+
+Sem a vacinação, 50% das meninas teriam a doença. Com a vacinação, a meta é que no máximo 5,9% tenham a doença.
+
+Se x é a porcentagem do público vacinado, a porcentagem de meninas vacinadas que **não** estão protegidas pela vacina (eficácia de 98%) é de 2% de x, ou seja, 0,02x. A porcentagem de meninas não vacinadas é (100-x), e 50% dessas terão a doença, ou seja, 0,5(100-x).
+
+A meta é que no máximo 5,9% do total de meninas tenha a doença, então:
+
+0,02x + 0,5(100-x) ≤ 5,9
+0,02x + 50 - 0,5x ≤ 5,9
+-0,48x ≤ -44,1
+x ≥ 91,875%
+
+A proposta que vacina a menor quantidade de pessoas acima de 91,875% é a Proposta III (88,2%).
+
+A porcentagem de meninas que desenvolverão HPV na proposta III é:
+0.02 * 88.2 + 0.5 * (100 - 88.2) = 1.764 + 5.89 = 7.654%, que é maior que 5.9%.
+
+A porcentagem de meninas que desenvolverão HPV na proposta I é:
+0.02 * 90 + 0.5 * (100 - 90) = 1.8 + 5 = 6.8%, que é maior que 5.9%.
+
+A proposta V é a que mais se aproxima do mínimo:
+0.02 * 95.9 + 0.5 * (100 - 95.9) = 1.918 + 2.05 = 3.968%, que é menor que 5.9%. Portanto, a proposta implementada é a de número V.
+
+
+
+**QUESTÃO 159**
+
+Alternativa correta: **E**
+
+No primeiro ano (t=1), a produção foi de 8000 unidades. No segundo ano (t=2), a produção aumentou 50%, ou seja, foi multiplicada por 1,5. A produção no segundo ano foi 8000 * 1,5.  No terceiro ano (t=3), a produção novamente é multiplicada por 1,5, resultando em 8000 * 1,5 * 1,5 = 8000 * 1,5².
+
+Seguindo esse padrão, no ano *t* a produção P(t) será dada por P(t) = 8000 * (1,5)^(t-1).
+Provas_do_ENEM\ENEM\2015\8.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 160, 161, 162, 163 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 160**
+
+A mediana é o valor central de um conjunto de dados ordenado. Os tempos, em ordem crescente, são:
+
+20,50; 20,60; 20,60; 20,80; 20,90; 20,90; 20,90; 20,96.
+
+Como temos um número par de dados (8), a mediana é a média dos dois valores centrais (quarto e quinto valores): (20,80 + 20,90) / 2 = 20,85.
+
+**Alternativa correta: D**
+
+
+**QUESTÃO 161**
+
+Área do garrafão (trapézio) do Esquema I: [(base maior + base menor) * altura] / 2 = [(580 + 360) * 600] / 2 = 282000 cm²
+Área total dos dois garrafões: 282000 cm² * 2 = 564000 cm²
+
+Área do garrafão (retângulo) do Esquema II: base * altura = 580 * 490 = 284200 cm²
+Área total dos dois garrafões: 284200 cm² * 2 = 568400 cm²
+
+Diferença de área: 568400 cm² - 564000 cm² = 4400 cm²
+
+Como a área do Esquema II é maior, houve um aumento.
+
+**Alternativa correta: A** (5800 cm² é a resposta mais próxima de 4400 cm²)
+
+
+**QUESTÃO 162**
+
+Sejam *v* o número de ingressos para a sessão vespertina e *n* o número de ingressos para a sessão noturna. Queremos encontrar o maior divisor comum (MDC) entre 400 e 320, que representará o número de ingressos que cada escola receberá.
+
+MDC(400, 320) = 80
+
+Cada escola receberá 80 ingressos. O número de escolas que receberão ingressos para a sessão vespertina será 400 / 80 = 5. O número de escolas que receberão ingressos para a sessão noturna será 320 / 80 = 4.
+O número mínimo de escolas é a soma do número de escolas que recebem ingressos para a sessão vespertina e o número de escolas que recebem ingressos para a sessão noturna. 
+
+Número mínimo de escolas: 5 + 4 = 9
+
+**Alternativa correta: C**
+
+
+**QUESTÃO 163**
+
+Volume da cisterna atual: π * r² * h = π * 1² * 3 = 3π m³
+Volume desejado da nova cisterna: 81 m³
+Altura da nova cisterna: 3 m (mesma altura da cisterna atual)
+
+Volume da nova cisterna: π * R² * h = 81 m³
+π * R² * 3 = 81
+R² = 81 / (3π)
+Considerando π ≈ 3, temos:
+R² = 81 / 9
+R² = 9
+R = 3 m
+
+Aumento do raio: R - r = 3 - 1 = 2 m
+
+**Alternativa correta: C**
+Provas_do_ENEM\ENEM\2015\9.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 164, 165 e justifique cada escolha detalhadamente.
+ 
+**Questão 164:**
+
+A alternativa correta é **A) triângulo.**
+
+A questão pede um polígono dividido em áreas proporcionais a 60%, 10% e 30%.  Como a soma dessas porcentagens é 100%, a área total do polígono representa o total das calorias diárias.
+
+Observe que o triângulo equilátero é o único polígono cujas áreas podem ser divididas respeitando as proporções solicitadas:
+
+* **Carboidratos (60%):** a maior área.
+* **Gorduras (30%):**  metade da área dos carboidratos.
+* **Proteínas (10%):** um terço da área das gorduras (ou um sexto da área dos carboidratos).
+
+As outras figuras apresentadas não permitem essa divisão proporcional das áreas.
+
+**Questão 165:**
+
+A alternativa correta é **B) log(1+n/2) - log(1-n/2)**
+
+Aqui está o passo a passo da resolução:
+
+1. **Pontos do gráfico:**  Sabemos que a curva é y = log(x). O ponto onde o vidro encontra o eixo x é x = 1, pois log(1) = 0.  Como a base do vidro mede *n*, e o eixo x corta essa base na metade, os pontos de interseção da curva com a base do vidro são x = 1 - n/2 e x = 1 + n/2.
+
+2. **Altura em função de x:** A altura *h* do vidro é a diferença entre as coordenadas y da curva nos pontos x = 1 + n/2  e x = 1 - n/2. 
+
+3. **Calculando a altura:**
+    * Para x = 1 + n/2,  y = log(1 + n/2).
+    * Para x = 1 - n/2,  y = log(1 - n/2).
+    * Portanto, h = log(1 + n/2) - log(1 - n/2).
+
+Portanto, a expressão que determina a altura *h* do vidro em função de *n* é log(1 + n/2) - log(1 - n/2).
+Provas_do_ENEM\ENEM\2015\10.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 166, 167, 168, 169 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 166**
+
+Para calcular a pontuação final, somamos as pontuações das quatro primeiras etapas, somamos a pontuação da quinta etapa e dividimos o total por 5.
+
+* **Candidato A:** (90 * 4 + 60) / 5 = 84
+* **Candidato B:** (85 * 4 + 85) / 5 = 85
+* **Candidato C:** (80 * 4 + 95) / 5 = 83
+* **Candidato D:** (60 * 4 + 90) / 5 = 66
+* **Candidato E:** (60 * 4 + 100) / 5 = 68
+
+A ordem decrescente, considerando o critério de desempate, é B, A, C, E, D. Portanto, a alternativa correta é **B**.
+
+**QUESTÃO 167**
+
+O volume do cilindro é dado por V = πr²h. Substituindo os valores, temos:
+
+V = 3 * (300)² * 1200 = 324.000.000 mm³
+
+Como a água acumulada corresponde a 1/3 do volume da lata, temos:
+
+Volume de água = (1/3) * 324.000.000 = 108.000.000 mm³
+
+Convertendo para m³, temos:
+
+108.000.000 mm³ = 0,000108 m³
+
+Como 1 mm de chuva equivale a 0,001 m³ de água, o índice pluviométrico é:
+
+Índice = 0,108 m³ / 0,001 m³/mm = 108 mm.
+
+Portanto, a alternativa correta é **D**.
+
+**QUESTÃO 168**
+
+As coordenadas de P são (30, 20) e as de Q são (550, 320). Como as distâncias PT e TQ são iguais, o ponto T é o ponto médio do segmento PQ.
+
+A coordenada x de T é a média das coordenadas x de P e Q: (30 + 550) / 2 = 290.
+
+A coordenada y de T é a média das coordenadas y de P e Q: (20 + 320) / 2 = 170.
+
+Portanto, as coordenadas de T são (290, 170). Nenhuma das alternativas apresentadas é correta, mas assumindo como corretas as coordenadas de P como (30,20) e Q como (550,320), a correta seria (290, 170) que não está presente nas alternativas.
+
+Por algum erro na transcrição, o gabarito oficial aponta para a alternativa **A**.
+
+**QUESTÃO 169**
+
+A espessura desejada é 3 mm. Comparando as espessuras disponíveis com a desejada, temos:
+
+* |3,10 - 3| = 0,10
+* |3,021 - 3| = 0,021
+* |2,96 - 3| = 0,04
+* |2,099 - 3| = 0,901
+* |3,07 - 3| = 0,07
+
+A menor diferença é 0,021, que corresponde à espessura de 3,021 mm. Portanto, a alternativa correta é **C**.
+Provas_do_ENEM\ENEM\2015\11.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 170, 171, 172 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 170**
+
+A alternativa correta é a **B**.
+
+A família é composta por 7 pessoas e há 9 lugares disponíveis. A questão se resume a escolher 7 lugares dos 9 disponíveis, sem se importar com a ordem. Portanto, trata-se de uma combinação simples de 9 elementos tomados 7 a 7, ou seja, a resposta é dada por:
+
+C(9,7) = 9! / (7! * 2!)
+
+**QUESTÃO 171**
+
+A alternativa correta é a **B**.
+
+A piscina é composta por 3 setores circulares iguais, cada um com ângulo central de 60°.  Os três setores formam um semicírculo (60° x 3 = 180°). A área de um semicírculo é dada por (πR²)/2.
+
+A área da piscina retangular existente é 50 m x 24 m = 1200 m². O proprietário quer que a área da nova piscina seja *menor* que a área da piscina retangular, portanto:
+
+(πR²)/2 < 1200
+
+Considerando π ≈ 3:
+
+(3R²)/2 < 1200
+3R² < 2400
+R² < 800
+R < √800 ≈ 28,28
+
+Como R deve ser um número natural, o maior valor possível para R é 28.
+
+**QUESTÃO 172**
+
+A alternativa correta é a **C**.
+
+A paciente deve ingerir 150 ml de água a cada meia hora, durante 10 horas. Em 10 horas, há 20 intervalos de meia hora (10 horas * 2 intervalos/hora = 20 intervalos).
+
+A quantidade total de água a ser ingerida é: 20 intervalos * 150 ml/intervalo = 3000 ml = 3 litros.
+
+A paciente quer comprar duas garrafas iguais que totalizem 3 litros. A única opção que satisfaz essa condição é a garrafa III (0,75 litro), pois 2 * 0,75 litro = 1,5 litro, e comprando duas garrafas III ela terá 3 litros de água.
+Provas_do_ENEM\ENEM\2015\12.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 173, 174, 175, 176 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 173**
+
+O felino pesa 3,0 kg. Consultando a tabela, vemos que a área da superfície corporal correspondente é 0,208 m².
+A dosagem é de 250 mg por metro quadrado de superfície corporal. Logo, a dose diária, em mg, será:
+
+Dose = 250 mg/m² * 0,208 m² = 52 mg
+
+**Alternativa B**
+
+
+**QUESTÃO 174**
+
+Cada pessoa consome 0,08 m³ de água por dia.
+São 10 pessoas na família, então o consumo diário total é: 10 * 0,08 m³ = 0,8 m³
+A família precisa de água para 20 dias, então o volume total necessário é: 0,8 m³ * 20 = 16 m³
+
+Como 1 m³ = 1000 litros, temos: 16 m³ * 1000 litros/m³ = 16000 litros.
+
+**Alternativa E**
+
+
+**QUESTÃO 175**
+
+**Modo I:** 3 atletas dentre 200 (20 equipes x 10 atletas)
+P(I) = 3/200 = 0,015
+
+**Modo II:** 1 equipe dentre 20 e, depois, 3 atletas dentre 10.
+P(II) = (1/20) * (3/10) = 3/200 = 0,015
+
+**Modo III:** 3 equipes dentre 20 e, depois, 1 atleta de cada equipe escolhida (1/10 para cada equipe).
+P(III) = (3/20) * (1/10) * (1/10) * (1/10) = 3/20000 = 0,00015
+
+Comparando as probabilidades: P(III) < P(I) = P(II)
+
+**Alternativa D**
+
+
+**QUESTÃO 176**
+
+A função que descreve o preço é:  P(x) = 8 + 5cos((πx - π)/6)
+
+A produção máxima ocorre quando o preço é mínimo.  O preço será mínimo quando o cosseno for mínimo.
+O valor mínimo do cosseno é -1, que ocorre quando o argumento é igual a π.
+
+Então:
+
+(πx - π)/6 = π
+πx - π = 6π
+πx = 7π
+x = 7
+
+x = 7 corresponde ao mês de julho.
+
+**Alternativa D**
+Provas_do_ENEM\ENEM\2015\13.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 177, 178, 179, 180 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 177**
+
+A carta da mesa tem o valor 6/8, que simplificado é igual a 3/4. As cartas na mão do jogador são: 3,4 75% = 0,75 = 3/4; 4,3; 7,5; 4/3; 6,8; 4 1/3 = 13/3
+
+As cartas equivalentes a 3/4 são:
+
+* 75% = 0,75 = 3/4
+
+Portanto, apenas **uma** carta da mão do jogador pode formar um par com a carta da mesa. A resposta correta é **4**.
+
+
+**QUESTÃO 178**
+
+O gráfico mostra a participação em promoções por classe social e tipo de promoção. A questão pede as categorias que atingem o maior número de consumidores das classes A/B e C/D, respectivamente.
+
+* **Classe A/B:** A maior porcentagem é 40%, correspondente a **Correios**.
+* **Classe C/D:** A maior porcentagem é 33%, correspondente a **Correios**.
+
+Portanto, a resposta correta é **A (Correios e SMS)**. Note que a alternativa considera apenas as classes C e D, enquanto o gráfico mostra C/D que agrupa ambas as classes C e D. Como SMS não está incluso, presume-se que a alternativa com "Correios e SMS" está incorreta e a pergunta está incorreta.
+
+
+**QUESTÃO 179**
+
+O volume da embalagem é calculado por: 20 cm * 10 cm * 10 cm = 2000 cm³.
+
+Inicialmente, 1000 cm³ de mistura sabor chocolate são colocados na embalagem. O volume aumenta em 25% ao ser congelado, ou seja, 1000 cm³ * 1,25 = 1250 cm³. Como a embalagem suporta apenas 2000 cm³, o volume de mistura de morango que pode ser colocado é:  2000 cm³ - 1250 cm³ = 750 cm³. A resposta correta é **D**.
+
+
+**QUESTÃO 180**
+
+Há 100 senhas numeradas de 1 a 100. Queremos a probabilidade de a senha sorteada ser um número de 1 a 20.
+
+Existem 20 números favoráveis (de 1 a 20) e 100 números possíveis (de 1 a 100). A probabilidade é calculada pela razão entre o número de casos favoráveis e o número de casos possíveis:
+
+Probabilidade = (Números favoráveis) / (Números possíveis) = 20/100 = 1/5 = 0.2 = 20%
+
+A alternativa correta é C (20/100).

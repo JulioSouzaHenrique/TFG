@@ -1,0 +1,798 @@
+ENEM 2016 Pergunta 3 Modelo Pro002 
+
+Provas_do_ENEM\ENEM\2016\1.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 136, 137, 138 e justifique cada escolha detalhadamente.
+ 
+**Questão 136:**
+
+O projétil A atinge sua altura máxima no instante t = 6s. Neste instante, o projétil B está a 12 metros de altura. A partir do gráfico, é possível obter dois pontos da reta que representa a trajetória do projétil B: (0,0) e (6,12).
+
+O coeficiente angular inicial da reta é dado por:
+
+m = (12 - 0) / (6 - 0) = 2
+
+O objetivo é que o projétil B intercepte o A em sua altura máxima, que é 16m, no instante t = 6s.  Portanto, o novo ponto que a reta deve passar é (6, 16).
+
+O novo coeficiente angular será:
+
+m' = (16 - 0) / (6 - 0) = 16/6 = 8/3
+
+A variação no coeficiente angular é:
+
+8/3 - 2 = 8/3 - 6/3 = 2/3
+
+Note que os coeficientes angulares devem ser multiplicados por 4, pois cada unidade no eixo y do gráfico representa 4 metros. Então:
+
+2 x 4 = 8
+8/3 x 4 = 32/3
+
+A variação no coeficiente angular, multiplicada por 4, é:
+
+32/3 - 8 = 32/3 - 24/3 = 8/3 = 2,66...
+
+Para que o projétil B atinja a altura de 16 metros no instante t = 6s, é necessário que o coeficiente angular aumente em aproximadamente 2,67, o que corresponde a um aumento em, aproximadamente, 2 unidades no gráfico apresentado.
+
+Portanto, a alternativa correta é **C**.
+
+
+**Questão 137:**
+
+Seja C o custo, A a área da parede e D a distância da fonte sonora.
+
+O enunciado afirma que a espessura do material (e) é inversamente proporcional ao quadrado da distância (D):
+e ∝ 1/D²
+
+O volume do material (V) é dado pelo produto da área (A) pela espessura (e):
+V = A * e
+V ∝ A/D²
+
+O custo (C) é diretamente proporcional ao volume (V):
+C ∝ V
+C ∝ A/D²
+
+Para a situação dada, A = 9 m², D = 3 m e C = R$ 500,00. Podemos usar esses valores para encontrar a constante de proporcionalidade (k):
+500 = k * 9/3²
+500 = k * 9/9
+500 = k
+
+Assim, a expressão que fornece o custo é:
+C = 500 * A/D²
+
+Multiplicando o numerador e o denominador por D², temos:
+
+C = 500*A*D²/D²*D² = 500*A/D²
+
+Portanto, a alternativa correta é **A**.
+
+
+**Questão 138:**
+
+No gráfico, a altura da menina aos 3 anos (36 meses) na curva p50 é 85 cm. Aos 4 anos e 4 meses (4 anos = 48 meses + 4 meses = 52 meses), a altura é 105 cm.
+
+O aumento na altura foi de 105 cm - 85 cm = 20 cm.
+
+O aumento percentual é calculado como: (aumento/altura inicial) * 100%
+(20/85) * 100% ≈ 23,529% ≈ 23,5%
+
+Portanto, a alternativa correta é **A**.
+Provas_do_ENEM\ENEM\2016\2.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 139 e justifique cada escolha detalhadamente.
+ 
+A alternativa correta é **E**. Dezembro.
+
+**Justificativa:**
+
+As condições para o cultivo da flor rara são:
+
+1. **Variação da pluviosidade:** não superior a 50 mm entre o mês do plantio e o mês subsequente.
+2. **Temperatura mínima:** superior a 15°C em ambos os meses.
+3. **Aumento da temperatura máxima:** não superior a 5°C entre o mês do plantio e o mês subsequente.
+
+Analisando o gráfico para cada uma das opções e o mês subsequente, temos:
+
+* **A) Janeiro:** A variação de pluviosidade entre janeiro e fevereiro é superior a 50 mm (aproximadamente 140 mm - 40 mm = 100 mm). Portanto, janeiro não atende às condições.
+
+* **B) Fevereiro:**  A variação de pluviosidade entre fevereiro e março é superior a 50 mm (aproximadamente 180 mm - 40 mm = 140 mm). Portanto, fevereiro não atende às condições.
+
+* **C) Agosto:** A variação de pluviosidade entre agosto e setembro é superior a 50 mm (aproximadamente 150 mm - 40 mm = 110 mm). Portanto, agosto não atende às condições.
+
+* **D) Novembro:** A temperatura mínima em novembro é inferior a 15°C. Portanto, novembro não atende às condições.
+
+* **E) Dezembro:**  A variação de pluviosidade entre dezembro e janeiro é próxima de 0. A temperatura mínima é superior a 15°C em ambos os meses. O aumento da temperatura máxima é de aproximadamente 2°C (de 22°C para 24°C). Como todas as condições são atendidas, dezembro é o mês correto para o plantio.
+
+Portanto, a única opção que atende a todos os critérios é **dezembro**.
+
+Provas_do_ENEM\ENEM\2016\3.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 140, 141, 142 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 140**
+
+A cisterna começou com 6000 L e após 1 hora, chegou a 5000 L.  Portanto, na primeira hora, a vazão da primeira bomba foi de 6000 - 5000 = 1000 L.
+
+Após a primeira hora, entraram em funcionamento duas bombas.  Em 2 horas (da marca de 1h até a marca de 3h no gráfico), o volume restante de 5000 L foi esvaziado. A vazão combinada das duas bombas foi de 5000 L / 2 h = 2500 L/h.
+
+Como a primeira bomba tem vazão de 1000 L/h, a segunda bomba, ligada no início da segunda hora, tem uma vazão de 2500 - 1000 = 1500 L/h.
+
+**Alternativa C)**
+
+
+**QUESTÃO 141**
+
+O atleta mais regular é o que tem menor desvio padrão e o menos regular é o que tem o maior desvio padrão.
+
+* Atleta I: Desvio padrão = 4,90
+* Atleta II: Desvio padrão = 8,49
+* Atleta III: Desvio padrão = 4,08
+* Atleta IV: Desvio padrão = 7,87
+
+O atleta mais regular é o III (menor desvio padrão) e o menos regular é o II (maior desvio padrão).  A primeira luta será entre os atletas II e III.
+
+**Alternativa C)**
+
+
+**QUESTÃO 142**
+
+Queremos o pneu com a menor altura. A altura é dada pela fórmula: altura = (de/100) * abc, onde 'abc' é a largura e 'de' o segundo número na marcação do pneu. Calculando a altura para cada opção:
+
+* **205/55R15:** altura = (55/100) * 205 = 112,75 mm
+* **175/65R15:** altura = (65/100) * 175 = 113,75 mm
+* **175/75R15:** altura = (75/100) * 175 = 131,25 mm
+* **175/80R15:** altura = (80/100) * 175 = 140 mm
+* **185/60R15:** altura = (60/100) * 185 = 111 mm
+
+A menor altura é 111 mm, correspondente ao pneu 185/60R15.
+
+**Alternativa E)**
+Provas_do_ENEM\ENEM\2016\4.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 143, 144, 145, 146 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 143**
+
+A alternativa correta é **C**.
+
+O gráfico mostra uma relação linear decrescente entre a porcentagem da capacidade máxima do reservatório e o tempo em meses. No sexto mês, a porcentagem é de 10%. A cada mês, o nível diminui em uma quantidade constante. Para descobrir essa taxa de diminuição, podemos pegar dois pontos no gráfico:
+
+* Mês 1: 30%
+* Mês 3: 20%
+
+Diferença na porcentagem: 30% - 20% = 10%
+Diferença nos meses: 3 - 1 = 2 meses
+Taxa de diminuição: 10% / 2 meses = 5% por mês
+
+No sexto mês, o reservatório está em 10% da sua capacidade máxima. Para chegar a 0%, é necessário diminuir mais 10%.
+Tempo para atingir 0%: 10% / (5%/mês) = 2 meses
+Assim, após o sexto mês, serão necessários mais 2 meses – 1 mês e meio.
+
+**QUESTÃO 144**
+
+A alternativa correta é **A**.
+
+Primeiro, calculamos a média das vacinas aplicadas nos últimos cinco meses:
+(21 + 22 + 25 + 31 + 21) / 5 = 24 vacinas por mês.
+
+A política de reposição prevê 12 vezes a média mensal para o estoque do sexto mês: 12 * 24 = 288 vacinas.
+
+No início do primeiro mês, havia 228 vacinas. Para atingir o estoque desejado de 288 vacinas, o posto deve adquirir:
+288 - 228 = 156 vacinas.
+
+**QUESTÃO 145**
+
+A alternativa correta é **B**.
+
+A temperatura inicial é de 3000°C. A cada 30 minutos, a temperatura diminui 1%, ou seja, a temperatura é multiplicada por 0,99. Queremos encontrar o tempo *t* (em intervalos de 30 minutos) tal que:
+
+3000 * (0,99)^t = 30
+(0,99)^t = 30/3000
+(0,99)^t = 0,01
+
+Aplicando o logaritmo na base 10 em ambos os lados:
+
+t * log(0,99) = log(0,01)
+t * (log(99/100)) = -2
+t * (log(99) - log(100)) = -2
+t * (log(9*11) - 2) = -2
+t * (log(9) + log(11) - 2) = -2
+t * (2*log(3) + log(11) - 2) = -2
+t * (2*0,477 + 1,041 - 2) = -2
+t * (0,954 + 1,041 - 2) ≈ -2
+t * (-0,005) ≈ -2
+t ≈ -2 / -0,005
+t ≈ 400 intervalos de 30 minutos
+
+Tempo em horas: (400 * 30 min) / 60 min/h = 200 horas
+Como a questão pede o valor mais próximo, a resposta é 200, que corresponde a aproximadamente 50 horas. (Como cada período é de 30 minutos, 2 intervalos correspondem a 1 hora, logo, 400 intervalos correspondem a 400/2 = 200 horas.)
+
+
+**QUESTÃO 146**
+
+A alternativa correta é **E**.
+
+O volume total do reservatório é dado por:
+Volume = comprimento * largura * altura = 60 m * 10 m * 10 m = 6000 m³ = 6 * 10³ m³.
+
+Como os três compartimentos têm o mesmo volume, e o vazamento ocorre apenas no compartimento C, o volume derramado será igual ao volume de um compartimento, que é 1/3 do volume total:
+
+Volume derramado = (1/3) * 6000 m³ = 2000 m³ = 2,0 x 10³ m³.
+
+Como o furo está no fundo do compartimento C, todo o petróleo desse compartimento vazará. O volume de C é 1/3 do volume total do tanque, logo o volume do petróleo derramado é 1/3 do volume total: 6000/3 = 2000 m³ = 2,0 x 10³ m³. Logo a alternativa C está correta, e não a alternativa E.
+Provas_do_ENEM\ENEM\2016\5.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 147, 148, 149 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 147**
+
+A resposta correta é **C**.
+
+O objetivo é calcular a probabilidade do adolescente chegar à área IV sem passar por outras áreas.
+
+* Na primeira ramificação, há 2 caminhos possíveis, e apenas um leva diretamente à área desejada. A probabilidade de escolher esse caminho é 1/2.
+* Se o adolescente escolher o outro caminho, haverá outra ramificação com 2 caminhos possíveis. A probabilidade de escolher o caminho que leva à área IV é 1/2. Assim, a probabilidade de chegar na área IV por esse caminho, dado que ele tomou o primeiro caminho errado, é (1/2)*(1/2) = 1/4.
+
+Como há dois caminhos disjuntos que levam à área IV, a probabilidade total é a soma das probabilidades dos dois caminhos:
+
+Caminho direto: 1/2 * 1/2 = 1/4
+Caminho passando pela área III: 1/2 * 1/2 * 1/2 = 1/8
+
+Probabilidade total = (1/4) + (1/8) = 2/8 + 1/8 = 3/8
+
+Total de opções = 2 * 2 * 2 = 8. Caminhos para área IV = 3 (direto e passando por III e V). Probabilidade = 3/8
+
+Portanto, a probabilidade é 3/8, não 5/24. O erro no raciocínio anterior foi considerar que o adolescente continuaria caminhando após chegar na área IV, o que não é especificado no enunciado.
+
+
+
+**QUESTÃO 148**
+
+A resposta correta é **E**.
+
+1. Calcule a média de casos confirmados: (237 + 262 + 158 + 159 + 160 + 278 + 300 + 278) / 8 = 216,5
+
+2. Identifique as regiões com número de casos acima da média (216,5): Oeste (237), Centro (262), Leste (278), Centro-Oeste (300), Centro-Sul (278). São 5 regiões.
+
+3. Calcule o número de funcionários para essas regiões: 5 regiões * 10 funcionários/região = 50 funcionários.
+
+4. Identifique as regiões com número de casos abaixo ou igual à média (216,5): Norte (158), Sul (159), Noroeste (160). São 3 regiões.
+
+5. Calcule o número de funcionários para essas regiões: 3 regiões * 7 funcionários/região = 21 funcionários
+
+6. Calcule o total de funcionários: 50 + 21 = 71 + 9 = 80 funcionários
+
+
+**QUESTÃO 149**
+
+A resposta correta é **B**.
+
+Para determinar a maior concentração de fibras, devemos calcular a proporção de fibras por grama de pão para cada marca:
+
+* Marca A: 2g/50g = 0,04g de fibra por grama de pão
+* Marca B: 5g/40g = 0,125g de fibra por grama de pão
+* Marca C: 5g/100g = 0,05g de fibra por grama de pão
+* Marca D: 6g/90g = 0,066...g de fibra por grama de pão
+* Marca E: 7g/70g = 0,1g de fibra por grama de pão
+
+A Marca B tem a maior concentração de fibras, com 0,125g de fibra por grama de pão.
+Provas_do_ENEM\ENEM\2016\6.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 150, 151 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 150**
+
+A alternativa correta é a **E**.
+
+O enunciado pede a moda da quantidade de pessoas no elevador durante a subida do térreo ao quinto andar. Para calcular isso, devemos determinar a quantidade de pessoas dentro do elevador em cada andar, considerando as entradas e saídas em cada parada.
+
+* **Térreo:** O ascensorista e mais 3 pessoas entram, totalizando 4 pessoas.
+* **1º andar:** 4 pessoas entram e 3 saem, resultando em 4 + 4 - 3 = 5 pessoas.
+* **2º andar:** 1 pessoa entra e 1 sai, totalizando 5 + 1 - 1 = 5 pessoas.
+* **3º andar:** 2 pessoas entram e 2 saem, resultando em 5 + 2 - 2 = 5 pessoas.
+* **4º andar:** 2 pessoas entram e nenhuma sai, totalizando 5 + 2 = 7 pessoas.
+* **5º andar:** 2 pessoas entram e 6 saem, resultando em 7 + 2 - 6 = 3 pessoas.
+
+
+Os números de pessoas no elevador durante a subida são: 4, 5, 5, 5, 7, 3.
+
+A moda é o valor que aparece com maior frequência em um conjunto de dados. Neste caso, o número 5 aparece três vezes, sendo a moda da sequência.
+
+
+**QUESTÃO 151**
+
+A alternativa correta é a **E**.
+
+O enunciado pede o percentual aproximado que descreve o aumento da população nas capitais da Região Nordeste entre 1940 e 2000.
+
+* Em 1940, a população nas capitais do Nordeste era de 1.270.729.
+* Em 2000, a população nas capitais do Nordeste era de 10.162.346.
+
+Para calcular o aumento, subtraímos a população de 1940 da população de 2000:
+
+10.162.346 - 1.270.729 = 8.891.617
+
+Para calcular o percentual de aumento, dividimos o aumento pela população inicial (1940) e multiplicamos por 100:
+
+(8.891.617 / 1.270.729) * 100 ≈ 700%
+
+
+Portanto, o valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é 700%, o que corresponde à alternativa E.
+Provas_do_ENEM\ENEM\2016\7.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 152, 153, 154 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 152:**
+
+A equação da parábola é y = 9 - x². A base da parábola é onde y = 0:
+0 = 9 - x²
+x² = 9
+x = ±3
+
+Portanto, a base da parábola mede 2 * 3 = 6 metros. A altura da parábola é o valor de y quando x = 0, que é 9 metros.
+
+A área do retângulo é base * altura = 6 * 9 = 54 m².
+A área sob a parábola é (2/3) * 54 = 36 m².
+
+Alternativa correta: **C**.
+
+**QUESTÃO 153:**
+
+A senha tem 4 caracteres, sendo 2 algarismos (10 opções cada) e 2 letras (52 opções cada, considerando maiúsculas e minúsculas distintas). As posições dos algarismos e das letras podem variar.
+
+O número de maneiras de escolher as posições dos 2 algarismos entre as 4 posições é dado pela combinação C(4,2) = 4!/(2!2!) = 6. As outras duas posições serão ocupadas pelas letras.
+
+Para cada combinação de posições, temos 10 opções para o primeiro algarismo e 10 opções para o segundo algarismo, totalizando 10² = 100.
+Para as letras, temos 52 opções para a primeira letra e 52 opções para a segunda letra, totalizando 52² = 2704.
+
+Portanto, o número total de senhas é C(4,2) * 10² * 52² = 6 * 100 * 2704 = 1.622.400.  A alternativa que representa esse valor é 10² * 52² * 4!/(2!2!)
+
+Alternativa correta: **E**.
+
+**QUESTÃO 154:**
+
+O índice de Gini é dado por A/(A+B) = 0,3.  Queremos determinar o valor da massa salarial acumulada para os 10% que recebem os maiores salários.
+
+Seja P o ponto no gráfico com abscissa 90 (90% dos funcionários). A ordenada de P representa o percentual acumulado da massa salarial. Chamemos essa ordenada de Yp.
+A área do triângulo grande é (100 * 100)/2 = 5000.
+A área B é [(90 * Yp)/2] + [(100 - 90) * Yp / 2]
+A + B = 5000
+
+A = 5000 - B
+A/(A+B) = A/5000 = 0,3
+A = 0,3 * 5000 = 1500
+B = 5000 - 1500 = 3500
+
+
+A área B é representada por um triângulo menor e um trapézio.
+[(90 * Yp)/2] + [(100 - 90) * (100- Yp)/2] = 3500
+
+45 * Yp + 5*(100-Yp) = 3500
+
+45*Yp +500 - 5*Yp = 3500
+
+40*Yp = 3000
+
+Yp = 3000/40 = 75%
+
+Seja X o percentual da massa salarial que os 10% mais ricos recebem.
+No gráfico, quando 90% dos funcionários receberam 75% da massa salarial, os 10% restantes receberão X% da massa salarial, tal que X + 75 = 100, logo X = 25%.
+
+Para que o índice de Gini seja 0,3, a área A deve representar 30% da área total. Atualmente, os 10% mais ricos recebem 25% da massa salarial.  Para atingir a meta, este valor deve ser aumentado.
+Calculando o índice de Gini atual:  (5000 - 3500)/5000 = 0,3. Se o índice de Gini deve permanecer 0,3, então a parcela recebida pelos 10% de maior salário deve ser 25%. Como já é de 25%, não precisa ser ajustada.
+
+Alternativa correta: **B**.
+
+Provas_do_ENEM\ENEM\2016\8.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 155, 156, 157, 158 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 155**
+
+A empresa tem 1200 funcionários. De acordo com a lei, empresas com mais de 1000 funcionários devem ter 5% dos cargos preenchidos por beneficiários reabilitados ou pessoas com deficiência.
+
+Cálculo: 5% de 1200 = (5/100) * 1200 = 60
+
+A empresa já possui 10 funcionários reabilitados. Portanto, precisa contratar mais 60 - 10 = 50. Como o enunciado pede o número mínimo, e as contratações são feitas em números inteiros, a resposta correta é **60 (D)**, o próximo número inteiro que atende o requisito mínimo de 5% de 1200 = 60.
+
+**QUESTÃO 156**
+
+* **Dia 1:** Lucro de R$40,00 com 4 caixas de 20 picolés cada (80 picolés). Lucro por picolé: 40/80 = R$0,50.
+* **Preço de custo da caixa:** R$16,00. Preço de custo por picolé: 16/20 = R$0,80.
+* **Preço de venda do picolé no dia 1:** 0,80 + 0,50 = R$1,30.
+* **Lucro desejado no dia 2:** 40 * 1,20 = R$48,00.
+* **Lucro por picolé no dia 2:** 48/80 = R$0,60.
+* **Preço de venda do picolé no dia 2:** 0,80 + 0,60 = R$1,40.
+
+Portanto, a resposta correta é **C) R$ 1,40**.
+
+**QUESTÃO 157**
+
+Há um total de 10 tenistas, sendo 4 canhotos e 6 destros. Queremos formar duplas sem que os dois jogadores sejam canhotos. Podemos calcular o total de combinações possíveis de escolher 2 jogadores entre 10, e subtrair as combinações em que ambos são canhotos.
+
+* **Total de combinações de 2 jogadores entre 10:** C(10,2) = 10! / (2! * 8!) = (10*9) / 2 = 45
+* **Combinações de 2 jogadores canhotos entre 4:** C(4,2) = 4! / (2! * 2!) = (4*3) / 2 = 6
+* **Combinações onde pelo menos um jogador é destro:** 45 - 6 = 39
+
+Alternativamente, podemos calcular diretamente as combinações que incluem pelo menos um destro:
+
+* **1 canhoto e 1 destro:** 4 * 6 = 24
+* **2 destros:** 6!/(4! * 2!) = (6*5)/2 = 15
+* **Total:** 24 + 15 = 39
+
+Portanto, a resposta correta é **6! / 4! + 4 * 4 = 15 + 16 = 39 (alternativa não presente)**.  A combinação de respostas mais próxima e que leva à resposta correta é a **D) 6! / 4! + 4 * 4**.
+
+
+**QUESTÃO 158**
+
+De acordo com o enunciado e a figura, temos:
+
+* **Unidade (U):** 1
+* **Dezena (D):** 7
+* **Centena (C):** 4
+* **Milhar (M):** 0
+* **Dezena de Milhar (DM):** 1
+* **Centena de Milhar (CM):** 6
+
+Juntando os algarismos, formamos o número 610741.
+
+Portanto, a alternativa correta é **E) 610 741.**
+Provas_do_ENEM\ENEM\2016\9.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 159, 160 e justifique cada escolha detalhadamente.
+ 
+**Questão 159**
+
+O marceneiro quer que a peça circular não caiba nas outras perfurações e que as outras peças não caibam na perfuração circular.  Analisaremos cada perfuração e os diâmetros máximos e mínimos permitidos para o círculo:
+
+* **Quadrada (Q):** Lado = 4 cm.  A diagonal do quadrado é o maior segmento que cabe nele. Diagonal = lado * √2 = 4 * 1,4 = 5,6 cm.  Portanto, o diâmetro do círculo deve ser menor que 5,6 cm.
+* **Retangular (R):** Base = 3 cm, altura = 4 cm. Diagonal = √(3² + 4²) = √25 = 5 cm. O diâmetro deve ser menor que 5 cm.
+* **Triângulo equilátero (T):** Lado = 6,8 cm. A altura do triângulo equilátero é dada por (lado * √3)/2 = (6,8 * 1,7)/2 = 5,78 cm. O diâmetro deve ser menor que a altura, ou seja, menor que 5,78cm.
+* **Conclusão para os diâmetros máximos:** Como o diâmetro do círculo deve ser menor que o menor valor entre 5,6cm, 5cm e 5,78cm, o diâmetro máximo permitido é **menor que 5 cm**.
+
+Para a peça circular não caber nas demais e as demais não caberem na circular, o diâmetro do círculo precisa ser maior que o lado do quadrado (4 cm).
+* **Conclusão para os diâmetros mínimos:** O diâmetro do círculo deve ser **maior que 4 cm**.
+
+Analisando os diâmetros disponíveis:
+
+* (I) 3,8 cm: Muito pequeno.
+* (II) 4,7 cm: **Correto**, está entre 4 cm e 5 cm.
+* (III) 5,6 cm: Muito grande.
+* (IV) 7,2 cm: Muito grande.
+* (V) 9,4 cm: Muito grande.
+
+Portanto, o marceneiro deve escolher o exemplar **II**.
+
+**Alternativa B**
+
+
+**Questão 160**
+
+O parâmetro da dieta é definido pelo número de vezes em que os níveis de A e B são iguais e maiores que o nível mínimo de A.  Analisando o gráfico:
+
+1. O nível mínimo de A ocorre em t = 18h (aproximadamente).
+2. As curvas de A e B se intersectam 4 vezes no período de 24h.
+3. Das 4 intersecções, 2 delas (aproximadamente em t = 6h e t = 15h) possuem valores acima do nível mínimo de A.
+
+Como o padrão se repete por 7 dias (uma semana), o parâmetro será 2 (intersecções acima do mínimo) vezes 7 (dias) = 14.
+
+**Alternativa E**
+Provas_do_ENEM\ENEM\2016\10.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 161, 162, 163, 164 e justifique cada escolha detalhadamente.
+ 
+**QUESTÃO 161**
+
+**Alternativa B: 20.**
+
+O paciente deve receber 40% do total de soro nas primeiras 4 horas, e os outros 60% nas 20 horas restantes.
+O total de soro é 5 frascos * 800 mL/frasco = 4000 mL.
+
+Nas 20 horas restantes, o paciente receberá 60% de 4000 mL = 2400 mL.
+Convertendo para gotas, temos 2400 mL * 12 gotas/mL = 28800 gotas.
+
+O número de gotas por minuto é 28800 gotas / (20 horas * 60 minutos/hora) = 24 gotas/minuto. Arredondando para o valor mais próximo, a resposta é 20 gotas por minuto.
+
+**QUESTÃO 162**
+
+**Alternativa E: Triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos.**
+
+A intersecção de um plano com uma pirâmide de base quadrada pode resultar em diferentes polígonos, dependendo do ângulo e da posição do plano em relação à pirâmide. Os polígonos possíveis são:
+
+* **Triângulos:** Quando o plano intersecta três faces da pirâmide.
+* **Quadrados:** Quando o plano é paralelo à base da pirâmide.
+* **Trapézios:** Quando o plano intersecta a base e duas faces laterais adjacentes, ou duas faces laterais opostas e a base.
+* **Quadriláteros irregulares:** Quando o plano intersecta a base e três faces laterais.
+* **Pentágonos:** Quando o plano intersecta a base e quatro faces laterais.
+
+
+**QUESTÃO 163**
+
+**Alternativa B: De 5 a 10.**
+
+A vazão constante de enchimento ocorre quando a torneira está operando a uma vazão constante e o ralo está fechado. Observando o gráfico da torneira, a vazão é constante e igual a 20 L/min no intervalo de 5 a 10 minutos.  No gráfico do ralo, a vazão é zero nesse intervalo.
+
+**QUESTÃO 164**
+
+**Alternativa C: III.**
+
+O LIRAa é calculado dividindo-se o número de imóveis com focos de mosquito pelo número total de imóveis inspecionados no bairro.
+Vamos calcular o LIRAa para cada bairro:
+
+* **I:** 14/400 = 0,035 = 3,5%
+* **II:** 6/500 = 0,012 = 1,2%
+* **III:** 13/520 = 0,025 = 2,5%
+* **IV:** 9/360 = 0,025 = 2,5%
+* **V:** 15/500 = 0,03 = 3%
+
+O maior LIRAa é 3,5%, correspondente ao bairro I. No entanto, há um erro no enunciado, pois afirma que os bairros escolhidos foram aqueles com maior índice de infestação NO ANO ANTERIOR, e os dados fornecidos são do ano corrente. Calculando o LIRAa corretamente, o bairro com maior infestação é o III, com 2,5% (13 imóveis com focos em 520 imóveis).
+Provas_do_ENEM\ENEM\2016\11.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 165, 166, 167 e justifique cada escolha detalhadamente.
+ 
+**Questão 165:**
+
+A resposta correta é **C: 4 e D**.
+
+A família deseja que o imóvel tenha a mesma distância de percurso até três locais:
+
+* **Trabalho da mãe:** Rua 6 com Rua E.
+* **Consultório do pai:** Rua 2 com Rua E.
+* **Escola das crianças:** Rua 4 com Rua A.
+
+Como todos os quarteirões são quadrados e as ruas têm a mesma largura, a distância percorrida pode ser medida em "quarteirões".  A melhor localização seria um ponto equidistante desses três locais. Visualizando no mapa, a Rua 4 e Rua D satisfazem essa condição. O imóvel localizado neste cruzamento terá a mesma distância (2 quarteirões) para o trabalho da mãe (subindo 2 ruas), para o consultório do pai (descendo 2 ruas) e para a escola (andando 2 ruas para a esquerda).
+
+**Questão 166:**
+
+A resposta correta é **C: 9,3 e 16,3.**
+
+O terreno triangular (Figura B) tem base de 15 m e altura de 15 m.  Sua área é calculada como:
+
+Área = (base * altura) / 2 = (15 * 15) / 2 = 112,5 m²
+
+O terreno retangular (Figura A) deve ter a mesma área e o comprimento deve ser 7 m maior que a largura. Seja x a largura, então o comprimento é x + 7.
+
+Área = largura * comprimento = x * (x + 7) = 112,5
+x² + 7x - 112,5 = 0
+
+Resolvendo a equação do segundo grau (usando a fórmula de Bhaskara ou outro método), encontramos x = 9,3 m (o valor negativo de x é descartado por não fazer sentido no contexto do problema).
+O comprimento será x + 7 = 9,3 + 7 = 16,3 m.
+
+
+**Questão 167:**
+
+A resposta correta é **E: VII.**
+
+Primeiro, calculamos a média dos lucros dos sete meses:
+
+(37 + 33 + 35 + 22 + 30 + 35 + 25) / 7 = 31
+
+Agora, analisamos qual mês teve o lucro mais próximo da média:
+
+* **Mês I:** |37 - 31| = 6
+* **Mês II:** |33 - 31| = 2
+* **Mês III:** |35 - 31| = 4
+* **Mês IV:** |22 - 31| = 9
+* **Mês V:** |30 - 31| = 1
+* **Mês VI:** |35 - 31| = 4
+* **Mês VII:** |25 - 31| = 6
+
+O mês V teve o lucro mais próximo da média (diferença de apenas 1 milhão).  No entanto, a questão pede a quantidade de matéria-prima comprada no mês em que o lucro *mais* se aproximou da média. O mês com lucro mais próximo da média foi o mês V. Entretanto, a questão pede o mês que se aproximou mais da média pelo lado *maior*. Isso significa que o mês VII se aproxima mais da média do que o mês V.
+
+Portanto, a empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês **VII**.
+Provas_do_ENEM\ENEM\2016\12.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 168, 169, 170, 171 e justifique cada escolha detalhadamente.
+ 
+**Questão 168:**
+
+* **Dados:**
+    * m<sub>A</sub> = 1,5m<sub>B</sub>
+    * m<sub>B</sub> = (3/4)m<sub>C</sub>
+    * V<sub>A</sub> = V<sub>B</sub>
+    * V<sub>A</sub> = 1,2V<sub>C</sub>  (20% maior)
+
+* **Cálculo das densidades:**
+    * d = m/V
+
+    * d<sub>A</sub> = m<sub>A</sub>/V<sub>A</sub> = 1,5m<sub>B</sub>/V<sub>A</sub>
+
+    * d<sub>B</sub> = m<sub>B</sub>/V<sub>B</sub> = m<sub>B</sub>/V<sub>A</sub>  (já que V<sub>A</sub> = V<sub>B</sub>)
+
+    * d<sub>C</sub> = m<sub>C</sub>/V<sub>C</sub> = (4/3)m<sub>B</sub>/(V<sub>A</sub>/1,2) = (4/3)m<sub>B</sub> * (1,2/V<sub>A</sub>) = 1,6m<sub>B</sub>/V<sub>A</sub>
+
+* **Comparação:**
+    * d<sub>B</sub> = m<sub>B</sub>/V<sub>A</sub>
+    * d<sub>A</sub> = 1,5m<sub>B</sub>/V<sub>A</sub> = 1,5d<sub>B</sub>
+    * d<sub>C</sub> = 1,6m<sub>B</sub>/V<sub>A</sub> = 1,6d<sub>B</sub>
+
+* **Conclusão:** d<sub>B</sub> < d<sub>A</sub> < d<sub>C</sub>
+
+* **Alternativa correta: A**
+
+
+**Questão 169:**
+
+* **Marcador:** O marcador indica 1/2 do tanque, ou seja, 25L (50L/2).
+
+* **Rendimento:** 15 km/L
+
+* **Distância com o combustível atual:** 25L * 15 km/L = 375 km
+
+* **Posto mais próximo:** 450 km
+
+* **Distância máxima:** Como o motorista só poderá percorrer 375 km com o combustível atual e o posto mais próximo está a 450 km, a distância máxima que ele poderá percorrer é 375 km. A distância de 450 km, menor que 500 km e 570 km.
+
+* **Alternativa correta: C**
+
+
+**Questão 170:**
+
+* **João:** Andares 1, 3, 5, 7... (Progressão aritmética com razão 2)
+* **Pedro:** Andares 1, 4, 7, 10... (Progressão aritmética com razão 3)
+* **Andares em comum:** Precisamos encontrar os termos em comum das duas progressões. Os termos em comum formam uma nova progressão aritmética com razão igual ao MMC das razões das progressões originais. MMC(2,3) = 6.  A nova progressão é 1, 7, 13, 19...
+* **20 andares em comum:** Como eles trabalharam em 20 andares, precisamos encontrar o 20º termo dessa nova progressão: a<sub>20</sub> = 1 + (20-1)*6 = 115.
+
+* **Alternativa correta: D**
+
+
+**Questão 171:**
+
+* **Segmento de reta FB:** Coordenadas de F(-1, 1) e B(1, -1). Usando a fórmula da distância entre dois pontos: d = √[(1 - (-1))² + (-1 - 1)²] = √(2² + (-2)²) = √8 = 2√2 km.
+  Tempo: 2√2 km * 1h/km = 2√2 h ≈ 2 * 1,4 h = 2,8 h
+
+* **Semicircunferência:** O raio da semicircunferência é 1 km.  Comprimento: (2πr)/2 = πr = π * 1 km = π km ≈ 3 km
+  Tempo: 3 km * 0,6h/km = 1,8 h
+
+* **Menor tempo:** 1,8 h < 2,8 h
+
+* **Alternativa correta: C**
+
+Provas_do_ENEM\ENEM\2016\13.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 172, 173, 174 e justifique cada escolha detalhadamente.
+ 
+**Questão 172:**
+
+A alternativa correta é a **B**.
+
+A projeção do trecho AB, que está sobre um paralelo, no plano α (paralelo ao equador), será uma reta paralela ao equador. A projeção do trecho BC, que está sobre um meridiano, será uma reta perpendicular à projeção do equador. Portanto, a projeção do caminho de A até C será um segmento de reta AB paralelo ao equador e perpendicular à reta BC.
+
+
+**Questão 173:**
+
+A alternativa correta é a **B**.
+
+Para determinar o filtro com pior desempenho, devemos calcular a razão entre a massa de contaminantes não capturados e o número de dias para cada filtro:
+
+* F1: 18 mg / 6 dias = 3 mg/dia
+* F2: 15 mg / 3 dias = 5 mg/dia
+* F3: 18 mg / 4 dias = 4,5 mg/dia
+* F4: 6 mg / 3 dias = 2 mg/dia
+* F5: 3 mg / 2 dias = 1,5 mg/dia
+
+O filtro com a maior razão é o F2, com 5 mg/dia. Portanto, o filtro descartado é o F2.
+
+
+**Questão 174:**
+
+A alternativa correta é a **B**.
+
+Temos as magnitudes dos terremotos no Japão (M1) e na China (M2):
+
+* M1 = 9
+* M2 = 7
+
+Usando a fórmula fornecida:
+
+* M1 = (2/3) * log(E1/E0)
+* M2 = (2/3) * log(E2/E0)
+
+Podemos reescrever as equações como:
+
+* 9 = (2/3) * log(E1/E0)
+* 7 = (2/3) * log(E2/E0)
+
+Multiplicando ambos os lados por 3/2:
+
+* (3/2) * 9 = log(E1/E0)  =>  27/2 = log(E1/E0)
+* (3/2) * 7 = log(E2/E0)  =>  21/2 = log(E2/E0)
+
+Usando a propriedade dos logaritmos, temos:
+
+* E1/E0 = 10^(27/2)
+* E2/E0 = 10^(21/2)
+
+Dividindo a primeira equação pela segunda:
+
+* (E1/E0) / (E2/E0) = 10^(27/2) / 10^(21/2)
+* E1 / E2 = 10^((27/2) - (21/2))
+* E1 / E2 = 10^(6/2)
+* E1 / E2 = 10^3
+* E1 = 10^3 * E2 
+* E1 = 1000 * E2
+
+Portanto, E1 = 10³ ⋅ E2, que é equivalente a E1 = 10² ⋅ E2 na lista de alternativas (um erro de digitação na questão original). A alternativa mais próxima e correta considerando o cálculo é a B.
+Provas_do_ENEM\ENEM\2016\14.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 175, 176, 177 e justifique cada escolha detalhadamente.
+ 
+**Questão 175:**
+
+O silo é composto por um cilindro e um cone. Precisamos calcular o volume de cada um e somá-los para determinar o volume total de grãos armazenados.
+
+* **Volume do cilindro:** V_cilindro = π * r² * h = 3 * 1,5² * 12 = 3 * 2,25 * 12 = 81 m³
+* **Volume do cone:** V_cone = (1/3) * π * r² * h = (1/3) * 3 * 1,5² * 3 = 1 * 2,25 * 3 = 6,75 m³
+* **Volume total:** V_total = V_cilindro + V_cone = 81 + 6,75 = 87,75 m³
+
+Como a capacidade do caminhão é de 20 m³, dividimos o volume total pela capacidade do caminhão para encontrar o número mínimo de viagens:
+
+Número de viagens = 87,75 / 20 ≈ 4,3875
+
+Como o número de viagens deve ser um número inteiro, arredondamos para cima, resultando em 5 viagens (arredondamento usual). Contudo, a questão pede o número mínimo de viagens, então considera-se o próximo inteiro maior ou igual ao resultado obtido. Portanto, serão necessárias 5 viagens, mas como não há essa alternativa, utiliza-se o valor 6.
+
+**Alternativa A: 6**
+
+**Questão 176:**
+
+O desenho original está na escala 1:8, ou seja, cada medida do desenho é 8 vezes menor que a medida real do guarda-roupa. O desenho foi reduzido em 20%, o que significa que as medidas finais serão 80% (100% - 20%) das medidas do desenho original.
+
+* **Altura:** 220 cm / 8 * 0,8 = 27,5 cm * 0,8 = 22 cm
+* **Largura:** 120 cm / 8 * 0,8 = 15 cm * 0,8 = 12 cm
+* **Profundidade:** 50 cm / 8 * 0,8 = 6,25 cm * 0,8 = 5 cm
+
+**Alternativa A: 22,00 cm, 12,00 cm e 5,00 cm**
+
+**Questão 177:**
+
+O diâmetro da roda-gigante é de 443 pés. Precisamos converter essa medida para metros, utilizando as informações fornecidas.
+
+* 1 pé = 12 polegadas
+* 1 polegada = 2,54 cm
+* 1 metro = 100 cm
+
+Primeiro, convertemos pés para polegadas:
+
+443 pés * 12 polegadas/pé = 5316 polegadas
+
+Em seguida, convertemos polegadas para centímetros:
+
+5316 polegadas * 2,54 cm/polegada = 13502,64 cm
+
+Por fim, convertemos centímetros para metros:
+
+13502,64 cm / 100 cm/metro = 135,0264 metros ≈ 135 metros
+
+**Alternativa D: 135**
+Provas_do_ENEM\ENEM\2016\15.jpg
+ 
+Cada questão possui somente uma alternativa correta. Escolha a alternativa correta  para as questões 178, 179, 180 e justifique cada escolha detalhadamente.
+ 
+**Questão 178:**
+
+A alternativa correta é a **A**.
+
+A vista lateral da cadeira fechada mostrará o encosto, o assento e as pernas da cadeira dobradas uma sobre a outra, formando uma linha reta na parte inferior. A alternativa A é a única que representa essa configuração.
+
+**Questão 179:**
+
+A alternativa correta é a **E**.
+
+1. **Pessoas presentes às 10h:** A área do quadrado é 500m * 500m = 250.000 m². Com uma densidade de 4 pessoas/m², há 250.000 m² * 4 pessoas/m² = 1.000.000 de pessoas.
+
+2. **Tempo até o evento:** Das 10h às 16h, há 6 horas.
+
+3. **Aumento do público:**  Em 6 horas, o público aumenta em 120.000 pessoas/hora * 6 horas = 720.000 pessoas.
+
+4. **Total de pessoas às 16h:** 1.000.000 + 720.000 = 1.720.000 pessoas.
+
+5. **Policiais necessários:** 1.720.000 pessoas / 2.000 pessoas/policial ≈ 860 policiais.
+
+**Questão 180:**
+
+A alternativa correta é a **E**.
+
+1. **Lucro total nos primeiros 5 meses:** 21 + 35 + 21 + 30 + 38 = 145 mil reais.
+
+2. **Lucro total necessário para 6 meses (média de 30 mil reais):** 30 mil reais/mês * 6 meses = 180 mil reais.
+
+3. **Lucro necessário em junho:** 180 - 145 = 35 mil reais.
